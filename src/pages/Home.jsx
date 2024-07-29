@@ -45,7 +45,7 @@ const Home = () => {
                               ></i>{" "}
                             </span>
                             <span class="elementor-icon-list-text">
-                              Feel The Convenience
+                              The safest, fastest and reliable payment services
                             </span>
                           </li>
                         </ul>
@@ -59,7 +59,7 @@ const Home = () => {
                     >
                       <div class="elementor-widget-container">
                         <h1 class="elementor-heading-title elementor-size-default">
-                          Send, Receive, Top-Up Your Money Easily
+                          Send, Receive, buy Airtime, Pay all Bills easily
                         </h1>{" "}
                       </div>
                     </div>
@@ -71,10 +71,12 @@ const Home = () => {
                     >
                       <div class="elementor-widget-container">
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua tenimad minim veniam quis nostrud
-                          exercitation.
+                          OGAPOS is your safest, fastest and most reliable way
+                          to get cash, send cash, paybills, buy Airtime and
+                          data, Get cash when you need it and where you need it,
+                          and with our Ajo(Thrift), you become financially free.
+                          Let's grow your business without stress and make your
+                          dream a reality
                         </p>{" "}
                       </div>
                     </div>
@@ -186,7 +188,7 @@ const Home = () => {
                     >
                       <div class="elementor-widget-container">
                         <h2 class="elementor-heading-title elementor-size-default">
-                          Always Update Every Day
+                          Getting cash made easier with OGAPOS
                         </h2>{" "}
                       </div>
                     </div>
@@ -198,8 +200,10 @@ const Home = () => {
                     >
                       <div class="elementor-widget-container">
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipis cing
-                          elit elit tellus luctus nec ullamcorper.
+                          Do you want to get cash delivered to you at your
+                          doorstep or do you want to exchange money very quick,
+                          Enter your email to make a request or{" "}
+                          <a href="contact">Contact Us</a>
                         </p>{" "}
                       </div>
                     </div>
@@ -284,7 +288,7 @@ const Home = () => {
                                       ></i>{" "}
                                     </span>
                                     <span class="elementor-icon-list-text">
-                                      Online Payment
+                                      POS
                                     </span>
                                   </li>
                                   <li class="elementor-icon-list-item">
@@ -295,7 +299,7 @@ const Home = () => {
                                       ></i>{" "}
                                     </span>
                                     <span class="elementor-icon-list-text">
-                                      Platform Support
+                                      Cash exchange and<br></br> delivery
                                     </span>
                                   </li>
                                   <li class="elementor-icon-list-item">
@@ -306,7 +310,7 @@ const Home = () => {
                                       ></i>{" "}
                                     </span>
                                     <span class="elementor-icon-list-text">
-                                      Secure Transaction
+                                      Airtime & Data
                                     </span>
                                   </li>
                                   <li class="elementor-icon-list-item">
@@ -317,7 +321,7 @@ const Home = () => {
                                       ></i>{" "}
                                     </span>
                                     <span class="elementor-icon-list-text">
-                                      Responsive Web App
+                                      Utility Bills
                                     </span>
                                   </li>
                                   <li class="elementor-icon-list-item">
@@ -328,7 +332,7 @@ const Home = () => {
                                       ></i>{" "}
                                     </span>
                                     <span class="elementor-icon-list-text">
-                                      Divide Group Payments
+                                      Electricity & Cable TV
                                     </span>
                                   </li>
                                   <li class="elementor-icon-list-item">
@@ -339,7 +343,7 @@ const Home = () => {
                                       ></i>{" "}
                                     </span>
                                     <span class="elementor-icon-list-text">
-                                      Lock Protection
+                                      Waste Bills
                                     </span>
                                   </li>
                                 </ul>
@@ -361,7 +365,7 @@ const Home = () => {
                             >
                               <div class="elementor-widget-container">
                                 <h3 class="elementor-heading-title elementor-size-default">
-                                  How Can I Help You?
+                                  How Can We Help You?
                                 </h3>{" "}
                               </div>
                             </div>
@@ -372,10 +376,33 @@ const Home = () => {
                               data-widget_type="text-editor.default"
                             >
                               <div class="elementor-widget-container">
-                                Lorem ipsum dolor sit amet, consect adipisci
-                                elit, sed do eiusmod tempor incididuntut labore
-                                et dolore magna aliqua consect adipisci elit
-                                eiusmod tempor incididuntut.{" "}
+                                <ul>
+                                  <li>
+                                    <strong>Get Cash:</strong> Access cash
+                                    quickly and conveniently, whenever and
+                                    wherever you need it.
+                                  </li>
+                                  <li>
+                                    <strong>Send Cash:</strong> Safely and
+                                    securely send money to family and friends.
+                                  </li>
+                                  <li>
+                                    <strong>Pay Bills:</strong> Pay your utility
+                                    bills, school fees, and other expenses with
+                                    ease.
+                                  </li>
+                                  <li>
+                                    <strong>Buy Airtime and Data:</strong>{" "}
+                                    Purchase airtime and data bundles instantly
+                                    for all major networks.
+                                  </li>
+                                  <li>
+                                    <strong>Ajo (Thrift):</strong> Join our
+                                    thrift program to save money, manage your
+                                    finances better, and achieve financial
+                                    freedom.
+                                  </li>
+                                </ul>
                               </div>
                             </div>
                             <div
@@ -510,7 +537,7 @@ const Home = () => {
                               ></i>{" "}
                             </span>
                             <span class="elementor-icon-list-text">
-                              About Company
+                              About OGA POS
                             </span>
                           </li>
                         </ul>
@@ -524,7 +551,7 @@ const Home = () => {
                     >
                       <div class="elementor-widget-container">
                         <h2 class="elementor-heading-title elementor-size-default">
-                          We Are The Best Online Payment Gateway Agency
+                          We have the best payment services in Nigeria
                         </h2>{" "}
                       </div>
                     </div>
@@ -534,14 +561,15 @@ const Home = () => {
                       data-element_type="widget"
                       data-widget_type="text-editor.default"
                     >
-                      <div class="elementor-widget-container">
+                      {/*}   <div class="elementor-widget-container">
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua. Ut enim ad minim veniam, quis
-                          nostrud exercitation ullamco laboris minim veniam.
+                          Our mission is to help people have access to quick
+                          cash, paying of bills quickly, buying airtime or data
+                          quickly, savings and thrift to enable people grow
+                          their businesses, quick exchange of currency and lot
+                          more. We do not compromise standard.
                         </p>{" "}
-                      </div>
+                      </div>*/}
                     </div>
                     <div
                       class="elementor-element elementor-element-6b578998 jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box"
@@ -561,11 +589,12 @@ const Home = () => {
                               </div>
                             </div>
                             <div class="icon-box icon-box-body">
-                              <h3 class="title">Trusted Partner</h3>
+                              <h3 class="title">We are Safe</h3>
                               <p class="icon-box-description">
-                                Lorem ipsum dolor sit amet, consect adipiscing
-                                elit, sed do eiusmod tempor incididunt ut labore
-                                eius.
+                                Your security is our top priority. With OGAPOS,
+                                you can be assured that all your transactions
+                                are protected, giving you peace of mind every
+                                step of the way.
                               </p>
                             </div>
                           </div>
@@ -590,11 +619,13 @@ const Home = () => {
                               </div>
                             </div>
                             <div class="icon-box icon-box-body">
-                              <h3 class="title">Fastpace Platform</h3>
+                              <h3 class="title">We are Fast</h3>
                               <p class="icon-box-description">
-                                Lorem ipsum dolor sit amet, consect adipiscing
-                                elit, sed do eiusmod tempor incididunt ut labore
-                                eius.
+                                Time is money, and we value yours. OGAPOS
+                                ensures that all your transactions are processed
+                                swiftly and efficiently, so you can get cash,
+                                send money, pay bills, and purchase airtime and
+                                data in a matter of seconds.
                               </p>
                             </div>
                           </div>
@@ -619,11 +650,12 @@ const Home = () => {
                               </div>
                             </div>
                             <div class="icon-box icon-box-body">
-                              <h3 class="title">Tested Reliability</h3>
+                              <h3 class="title">We are reliable</h3>
                               <p class="icon-box-description">
-                                Lorem ipsum dolor sit amet, consect adipiscing
-                                elit, sed do eiusmod tempor incididunt ut labore
-                                eius.
+                                Trust is earned, and we are committed to earning
+                                yours. OGAPOS stands out for its consistent and
+                                dependable services, ensuring that you can rely
+                                on us for all your financial needs, every time.
                               </p>
                             </div>
                           </div>
@@ -832,7 +864,7 @@ const Home = () => {
                     >
                       <div class="elementor-widget-container">
                         <h2 class="elementor-heading-title elementor-size-default">
-                          We Prioritize Transaction Security
+                          We Prioritize Customer Satisfaction
                         </h2>{" "}
                       </div>
                     </div>
@@ -844,10 +876,15 @@ const Home = () => {
                     >
                       <div class="elementor-widget-container">
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua.
-                        </p>{" "}
+                          At OGAPOS, we are dedicated to ensuring your complete
+                          satisfaction. Our services are designed to be
+                          user-friendly, reliable, and tailored to meet your
+                          needs. Whether you are accessing cash, sending money,
+                          paying bills, or purchasing airtime and data, we
+                          strive to provide an exceptional experience every
+                          time. Let OGAPOS help you achieve your financial goals
+                          with ease and convenience.
+                        </p>
                       </div>
                     </div>
                     <section
@@ -890,11 +927,14 @@ const Home = () => {
                                 <div class="jeg-elementor-kit jkit-icon-box icon-position- elementor-animation- jeg_module_546_10_66a669ed5a1ed">
                                   <div class="jkit-icon-box-wrapper hover-from-left">
                                     <div class="icon-box icon-box-body">
-                                      <h3 class="title">Secure Payments</h3>
+                                      <h3 class="title">
+                                        POS (Get cash, send cash etc)
+                                      </h3>
                                       <p class="icon-box-description">
-                                        Lorem ipsum dolor sit amet, consect
-                                        adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore eius.
+                                        Access cash quickly and conveniently,
+                                        whenever and wherever you need it,
+                                        Safely and securely send money to family
+                                        and friends.
                                       </p>
                                       <div class="icon-box-button ">
                                         <div class="btn-wrapper icon-position-after">
@@ -952,11 +992,10 @@ const Home = () => {
                                 <div class="jeg-elementor-kit jkit-icon-box icon-position- elementor-animation- jeg_module_546_11_66a669ed5c090">
                                   <div class="jkit-icon-box-wrapper hover-from-left">
                                     <div class="icon-box icon-box-body">
-                                      <h3 class="title">Investing Features</h3>
+                                      <h3 class="title">Utility Bills</h3>
                                       <p class="icon-box-description">
-                                        Lorem ipsum dolor sit amet, consect
-                                        adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore eius.
+                                        Pay your utility bills, school fees, and
+                                        other expenses with ease.
                                       </p>
                                       <div class="icon-box-button ">
                                         <div class="btn-wrapper icon-position-after">
@@ -1014,11 +1053,10 @@ const Home = () => {
                                 <div class="jeg-elementor-kit jkit-icon-box icon-position- elementor-animation- jeg_module_546_12_66a669ed5dd4d">
                                   <div class="jkit-icon-box-wrapper hover-from-left">
                                     <div class="icon-box icon-box-body">
-                                      <h3 class="title">No Hidden Fees</h3>
+                                      <h3 class="title">Airtime and Data</h3>
                                       <p class="icon-box-description">
-                                        Lorem ipsum dolor sit amet, consect
-                                        adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore eius.
+                                        Purchase airtime and data bundles
+                                        instantly for all major networks.
                                       </p>
                                       <div class="icon-box-button ">
                                         <div class="btn-wrapper icon-position-after">
@@ -1146,11 +1184,11 @@ const Home = () => {
                                 <div class="jeg-elementor-kit jkit-icon-box icon-position- elementor-animation- jeg_module_546_14_66a669ed6200d">
                                   <div class="jkit-icon-box-wrapper hover-from-left">
                                     <div class="icon-box icon-box-body">
-                                      <h3 class="title">World Class Support</h3>
+                                      <h3 class="title">Ajo(Thrift)</h3>
                                       <p class="icon-box-description">
-                                        Lorem ipsum dolor sit amet, consect
-                                        adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore eius.
+                                        Join our thrift program to save money,
+                                        manage your finances better, and achieve
+                                        financial freedom.
                                       </p>
                                       <div class="icon-box-button ">
                                         <div class="btn-wrapper icon-position-after">
@@ -1204,7 +1242,9 @@ const Home = () => {
                                     </h2>
                                   </div>
                                   <div class="heading-section-description">
-                                    <p>Lorem ipsum dolor sit amet. </p>
+                                    <p>
+                                      Do you want to see more of our services?
+                                    </p>
                                   </div>
                                 </div>{" "}
                               </div>
@@ -1266,11 +1306,11 @@ const Home = () => {
                                 <div class="jeg-elementor-kit jkit-icon-box icon-position- elementor-animation- jeg_module_546_16_66a669ed6ab31">
                                   <div class="jkit-icon-box-wrapper hover-from-left">
                                     <div class="icon-box icon-box-body">
-                                      <h3 class="title">World Class Support</h3>
+                                      <h3 class="title">Ajo(Thrift)</h3>
                                       <p class="icon-box-description">
-                                        Lorem ipsum dolor sit amet, consect
-                                        adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore eius.
+                                        Join our thrift program to save money,
+                                        manage your finances better, and achieve
+                                        financial freedom.
                                       </p>
                                       <div class="icon-box-button ">
                                         <div class="btn-wrapper icon-position-after">
@@ -1328,11 +1368,13 @@ const Home = () => {
                                 <div class="jeg-elementor-kit jkit-icon-box icon-position- elementor-animation- jeg_module_546_17_66a669ed6e3e8">
                                   <div class="jkit-icon-box-wrapper hover-from-left">
                                     <div class="icon-box icon-box-body">
-                                      <h3 class="title">Merchant Account</h3>
+                                      <h3 class="title">
+                                        Waste Bill and Electricity bill
+                                      </h3>
                                       <p class="icon-box-description">
-                                        Lorem ipsum dolor sit amet, consect
-                                        adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore eius.
+                                        Pay your waste bill bills, electricity
+                                        bill, cable tv(dstc, gotv etc) with
+                                        OGAPOS
                                       </p>
                                       <div class="icon-box-button ">
                                         <div class="btn-wrapper icon-position-after">
@@ -1444,10 +1486,9 @@ const Home = () => {
                     >
                       <div class="elementor-widget-container">
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua.
-                        </p>{" "}
+                          Using OGAPOS is simple and convenient. Follow these
+                          four quick steps to start enjoying our services:
+                        </p>
                       </div>
                     </div>
                     <div
@@ -1467,11 +1508,13 @@ const Home = () => {
                                 </div>
                               </div>
                               <div class="feature-list-content-box">
-                                <h3 class="feature-list-title">Download App</h3>
+                                <h3 class="feature-list-title">
+                                  Register/Visit any of our physical point
+                                </h3>
                                 <p class="feature-list-content">
-                                  Lorem ipsum dolor sit amet, consectetur
-                                  adipiscing elit, sed do eiusmod tempor
-                                  incididunt ut labore et dolore
+                                  Sign up for an account on our platform with
+                                  your basic details in the register/login place
+                                  or visit any of our points
                                 </p>
                               </div>
                             </li>
@@ -1483,14 +1526,10 @@ const Home = () => {
                                 </div>
                               </div>
                               <div class="feature-list-content-box">
-                                <h3 class="feature-list-title">
-                                  {" "}
-                                  Choose Payment
-                                </h3>
+                                <h3 class="feature-list-title"> Transact</h3>
                                 <p class="feature-list-content">
-                                  Lorem ipsum dolor sit amet, consectetur
-                                  adipiscing elit, sed do eiusmod tempor
-                                  incididunt ut labore et dolore
+                                  Choose the service you need—get cash, send
+                                  money, pay bills, or purchase airtime and data
                                 </p>
                               </div>
                             </li>
@@ -1504,9 +1543,7 @@ const Home = () => {
                               <div class="feature-list-content-box">
                                 <h3 class="feature-list-title">Make Payment</h3>
                                 <p class="feature-list-content">
-                                  Lorem ipsum dolor sit amet, consectetur
-                                  adipiscing elit, sed do eiusmod tempor
-                                  incididunt ut labore et dolore
+                                  Pay for the service you need
                                 </p>
                               </div>
                             </li>
@@ -1518,13 +1555,11 @@ const Home = () => {
                                 </div>
                               </div>
                               <div class="feature-list-content-box">
-                                <h3 class="feature-list-title">
-                                  Get Amazing Services
-                                </h3>
+                                <h3 class="feature-list-title">Enjoy</h3>
                                 <p class="feature-list-content">
-                                  Lorem ipsum dolor sit amet, consectetur
-                                  adipiscing elit, sed do eiusmod tempor
-                                  incididunt ut labore et dolore
+                                  Experience the convenience and reliability of
+                                  OGAPOS as we help you manage your finances
+                                  effortlessly.
                                 </p>
                               </div>
                             </li>
@@ -1603,9 +1638,14 @@ const Home = () => {
                               data-widget_type="text-editor.default"
                             >
                               <div class="elementor-widget-container">
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore magna aliqua.{" "}
+                                At OGAPOS, we pride ourselves on the volume of
+                                transactions successfully completed by our
+                                platform. Our robust system has facilitated
+                                countless transactions, helping customers access
+                                cash, send money, pay bills, and purchase
+                                airtime and data efficiently. Join our growing
+                                community of satisfied users and experience the
+                                reliability and convenience of our services.
                               </div>
                             </div>
                           </div>
