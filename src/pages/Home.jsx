@@ -1822,12 +1822,12 @@ const Home = () => {
                 </div>
               </div>
             </section>
-            {/*}  <section
+            <section
               class="elementor-section elementor-top-section elementor-element elementor-element-1860ac90 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
               data-id="1860ac90"
               data-element_type="section"
             >
-              <div class="elementor-container elementor-column-gap-default">
+              {/*}  <div class="elementor-container elementor-column-gap-default">
                 <div
                   class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5a582952"
                   data-id="5a582952"
@@ -2349,8 +2349,8 @@ const Home = () => {
                     </section>
                   </div>
                 </div>
-              </div>
-            </section>*/}
+              </div>*/}
+            </section>
             <section
               class="elementor-section elementor-top-section elementor-element elementor-element-c0ca17f elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default"
               data-id="c0ca17f"
@@ -2383,8 +2383,8 @@ const Home = () => {
                             >
                               <div class="elementor-widget-container">
                                 <h2 class="elementor-heading-title elementor-size-default">
-                                  We have many companies that have partned with
-                                  us
+                                  More Than 500 Companies Have Partnered With
+                                  Payze
                                 </h2>{" "}
                               </div>
                             </div>
@@ -2951,7 +2951,7 @@ const Home = () => {
                 </div>
               </div>
             </section>
-            {/*}  <section
+            {/*} <section
               class="elementor-section elementor-top-section elementor-element elementor-element-5af00faf elementor-section-boxed elementor-section-height-default elementor-section-height-default"
               data-id="5af00faf"
               data-element_type="section"
