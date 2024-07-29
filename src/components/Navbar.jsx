@@ -107,10 +107,7 @@ const Navbar = () => {
                                         id="menu-item-1105"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-546 current_page_item menu-item-1105"
                                       >
-                                        <a
-                                          href="index.html"
-                                          aria-current="page"
-                                        >
+                                        <a href="/" aria-current="page">
                                           Home
                                         </a>
                                       </li>
@@ -124,65 +121,28 @@ const Navbar = () => {
                                         id="menu-item-1103"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1103"
                                       >
-                                        <a href="services/index.html">
-                                          Services
+                                        <a href="services">Services</a>
+                                      </li>
+                                      <li
+                                        id="menu-item-1102"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1103"
+                                      >
+                                        <a href="faq">Faq</a>
+                                      </li>
+                                      <li
+                                        id="menu-item-1101"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1103"
+                                      >
+                                        <a href="services">
+                                          Become a POS agent
                                         </a>
                                       </li>
+
                                       <li
-                                        id="menu-item-15"
-                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15"
-                                      >
-                                        <a href="#">Info</a>
-                                        <ul class="sub-menu">
-                                          <li
-                                            id="menu-item-1102"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1102"
-                                          >
-                                            <a href="team/index.html">Team</a>
-                                          </li>
-                                          <li
-                                            id="menu-item-1101"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1101"
-                                          >
-                                            <a href="faq/index.html">FAQ</a>
-                                          </li>
-                                          <li
-                                            id="menu-item-1100"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1100"
-                                          >
-                                            <a href="pricing/index.html">
-                                              Pricing
-                                            </a>
-                                          </li>
-                                          <li
-                                            id="menu-item-1099"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1099"
-                                          >
-                                            <a href="blog/index.html">Blog</a>
-                                          </li>
-                                          <li
-                                            id="menu-item-1194"
-                                            class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1194"
-                                          >
-                                            <a href="2022/06/09/newest-saas-payment-platform-can-raise-15-million-annually/index.html">
-                                              Single Post
-                                            </a>
-                                          </li>
-                                          <li
-                                            id="menu-item-1121"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1121"
-                                          >
-                                            <a href="404-page/index.html">
-                                              404 Page
-                                            </a>
-                                          </li>
-                                        </ul>
-                                      </li>
-                                      <li
-                                        id="menu-item-1098"
+                                        id="menu-item-1100"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1098"
                                       >
-                                        <a href="contact/index.html">Contact</a>
+                                        <a href="contact">Contact</a>
                                       </li>
                                     </ul>
                                   </div>
@@ -245,11 +205,11 @@ const Navbar = () => {
                                     <span class="elementor-button-icon elementor-align-icon-left">
                                       <i
                                         aria-hidden="true"
-                                        class="fab fa-google-play"
+                                        class="fas fa-sign-in-alt"
                                       ></i>{" "}
                                     </span>
                                     <span class="elementor-button-text">
-                                      Download App
+                                      Login
                                     </span>
                                   </span>
                                 </a>

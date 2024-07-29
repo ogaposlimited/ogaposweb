@@ -11,8 +11,9 @@ import Home from "./pages/Home";
 // import Det from "./pages/Det";
 // import News from "./pages/News";
 // import NewsDet from "./pages/NewsDet";
-// import Contact from "./pages/Contact";
-// import Services from "./pages/Services";
+import Contact from "./pages/Contact";
+import Services from "./pages/Services";
+import Faq from "./pages/Faq";
 
 function App() {
   return (
@@ -22,15 +23,18 @@ function App() {
           <Route exact path="/" element={<Home />} />
 
           <Route exact path="/about" element={<About />} />
+          <Route exact path="/services" element={<Services />} />
+          <Route exact path="/contact" element={<Contact />} />
+          <Route exact path="/faq" element={<Faq />} />
           {/*}  <Route exact path="/banner" element={<Banner />} />
           <Route exact path="/register" element={<LoginPage />} />
           <Route exact path="/blog" element={<News />} />
           <Route exact path="/singleblog/:slug" element={<NewsDet />} />
-          <Route exact path="/services" element={<Services />} />
+         
           <Route exact path="/sidebar" element={<Sidebar />} />
           <Route exact path="" element={<BlogDet />} />
 
-          <Route exact path="/contact" element={<Contact />} />*/}
+        */}
         </Routes>
       </Router>
     </div>
