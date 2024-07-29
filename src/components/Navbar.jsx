@@ -1,7 +1,7 @@
 import { Badge } from "@material-ui/core";
 import { Search, ShoppingCartOutlined } from "@material-ui/icons";
 import React from "react";
-
+import "./nav.css";
 import oga from "./correctlogo.png";
 import oga1 from "./correctlogo.png";
 import oga3 from "./correctlogo.png";
@@ -170,6 +170,14 @@ const Navbar = () => {
                                           style={{ color: "black" }}
                                         >
                                           Contact
+                                        </a>
+                                      </li>
+                                      <li
+                                        id="menu-item-login"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-login"
+                                      >
+                                        <a href="#" style={{ color: "black" }}>
+                                          Login
                                         </a>
                                       </li>
                                     </ul>
