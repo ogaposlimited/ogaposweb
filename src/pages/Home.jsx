@@ -1822,7 +1822,7 @@ const Home = () => {
                 </div>
               </div>
             </section>
-            <section
+            {/*}  <section
               class="elementor-section elementor-top-section elementor-element elementor-element-1860ac90 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
               data-id="1860ac90"
               data-element_type="section"
@@ -2350,7 +2350,7 @@ const Home = () => {
                   </div>
                 </div>
               </div>
-            </section>
+            </section>*/}
             <section
               class="elementor-section elementor-top-section elementor-element elementor-element-c0ca17f elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default"
               data-id="c0ca17f"
@@ -2383,8 +2383,8 @@ const Home = () => {
                             >
                               <div class="elementor-widget-container">
                                 <h2 class="elementor-heading-title elementor-size-default">
-                                  More Than 500 Companies Have Partnered With
-                                  Payze
+                                  We have many companies that have partned with
+                                  us
                                 </h2>{" "}
                               </div>
                             </div>
@@ -2951,7 +2951,7 @@ const Home = () => {
                 </div>
               </div>
             </section>
-            <section
+            {/*}  <section
               class="elementor-section elementor-top-section elementor-element elementor-element-5af00faf elementor-section-boxed elementor-section-height-default elementor-section-height-default"
               data-id="5af00faf"
               data-element_type="section"
@@ -3214,7 +3214,7 @@ const Home = () => {
                   </div>
                 </div>
               </div>
-            </section>
+            </section>*/}
           </div>
           <Footer />
         </div>
