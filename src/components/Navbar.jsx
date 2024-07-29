@@ -97,7 +97,12 @@ const Navbar = () => {
                                     ></i>
                                   </span>
                                 </button>
-                                <div class="jkit-menu-wrapper">
+                                <div
+                                  class="jkit-menu-wrapper"
+                                  style={{
+                                    backgroundColor: "white",
+                                  }}
+                                >
                                   <div class="jkit-menu-container">
                                     <ul
                                       id="menu-menu"
@@ -115,25 +120,43 @@ const Navbar = () => {
                                         id="menu-item-1104"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1104"
                                       >
-                                        <a href="/about">About</a>
+                                        <a
+                                          href="/about"
+                                          style={{ color: "black" }}
+                                        >
+                                          About
+                                        </a>
                                       </li>
                                       <li
                                         id="menu-item-1103"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1103"
                                       >
-                                        <a href="services">Services</a>
+                                        <a
+                                          href="services"
+                                          style={{ color: "black" }}
+                                        >
+                                          Services
+                                        </a>
                                       </li>
                                       <li
                                         id="menu-item-1102"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1103"
                                       >
-                                        <a href="faq">Faq</a>
+                                        <a
+                                          href="faq"
+                                          style={{ color: "black" }}
+                                        >
+                                          Faq
+                                        </a>
                                       </li>
                                       <li
                                         id="menu-item-1101"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1103"
                                       >
-                                        <a href="services">
+                                        <a
+                                          href="pos-agent"
+                                          style={{ color: "black" }}
+                                        >
                                           Become a POS agent
                                         </a>
                                       </li>
@@ -142,7 +165,12 @@ const Navbar = () => {
                                         id="menu-item-1100"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1098"
                                       >
-                                        <a href="contact">Contact</a>
+                                        <a
+                                          href="contact"
+                                          style={{ color: "black" }}
+                                        >
+                                          Contact
+                                        </a>
                                       </li>
                                     </ul>
                                   </div>
@@ -155,7 +183,7 @@ const Navbar = () => {
                                         <img
                                           width="800"
                                           height="244"
-                                          src="wp-content/uploads/sites/27/2022/06/logo-payze-2-e1655014444821.png"
+                                          src={oga}
                                           class="attachment-full size-full"
                                           alt=""
                                           url="wp-content/uploads/sites/27/2022/06/logo-payze-2.png"
