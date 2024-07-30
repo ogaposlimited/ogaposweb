@@ -3,6 +3,7 @@ import { Search, ShoppingCartOutlined } from "@material-ui/icons";
 import React from "react";
 import white from "./home.png";
 import Navbar from "../components/Navbar";
+import "./home.css";
 import Footer from "../components/Footer";
 const Home = () => {
   const srcset = `${white} 800w, ${white} 213w, ${white} 726w, ${white} 768w`;
@@ -23,9 +24,9 @@ const Home = () => {
               data-settings='{"background_background":"classic"}'
             >
               <div class="elementor-background-overlay"></div>
-              <div class="elementor-container elementor-column-gap-default">
+              <div class="elementor-container elementor-column-gap-default custom-container">
                 <div
-                  class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2014433c"
+                  class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2014433c text-column"
                   data-id="2014433c"
                   data-element_type="column"
                 >
@@ -43,7 +44,7 @@ const Home = () => {
                               <i
                                 aria-hidden="true"
                                 class="far fa-dot-circle"
-                              ></i>{" "}
+                              ></i>
                             </span>
                             <span class="elementor-icon-list-text">
                               The safest, fastest and reliable payment services
@@ -61,7 +62,7 @@ const Home = () => {
                       <div class="elementor-widget-container">
                         <h1 class="elementor-heading-title elementor-size-default">
                           Send, Receive, buy Airtime, Pay all Bills easily
-                        </h1>{" "}
+                        </h1>
                       </div>
                     </div>
                     <div
@@ -78,7 +79,7 @@ const Home = () => {
                           and with our Ajo(Thrift), you become financially free.
                           Let's grow your business without stress and make your
                           dream a reality
-                        </p>{" "}
+                        </p>
                       </div>
                     </div>
                     <div
@@ -126,7 +127,7 @@ const Home = () => {
                   </div>
                 </div>
                 <div
-                  class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-47b9aee4 elementor-hidden-mobile"
+                  class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-47b9aee4 image-column"
                   data-id="47b9aee4"
                   data-element_type="column"
                 >
@@ -142,14 +143,14 @@ const Home = () => {
                           decoding="async"
                           width="800"
                           height="1128"
-                          // src="wp-content/uploads/sites/27/2022/06/she-was-dressed-in-a-white-shirt-and-black-pants-t-KXJ8QB6.png"
                           src={white}
-                          class="attachment-full size-full wp-image-214"
+                          class="attachment-full size-full wp-image-214 responsive-image"
                           alt=""
                           srcSet={srcset}
-                          style={{ height: "700px", width: "1500px" }}
+                          // style={{ height: "700px", width: "1500px" }}
+
                           sizes="(max-width: 800px) 100vw, 800px"
-                        />{" "}
+                        />
                       </div>
                     </div>
                     <div
