@@ -2,11 +2,16 @@ import { Badge } from "@material-ui/core";
 import { Search, ShoppingCartOutlined } from "@material-ui/icons";
 import React from "react";
 import white from "./home.png";
+import young from "./shopping.jpg";
+import old from "./shop2.jpg";
 import Navbar from "../components/Navbar";
+import step from "./step.png";
 import "./home.css";
 import Footer from "../components/Footer";
 const Home = () => {
-  const srcset = `${white} 800w, ${white} 213w, ${white} 726w, ${white} 768w`;
+  const whiteSrcSet = `${white} 800w, ${white} 213w, ${white} 726w, ${white} 768w`;
+  const blackSrcSet = `${step} 1000w, ${step} 258w, ${step} 879w, ${step} 768w, ${step} 800w`;
+
   return (
     <>
       <body class="home page-template page-template-elementor_header_footer page page-id-546 ehf-template-hello-elementor ehf-stylesheet-hello-elementor jkit-color-scheme elementor-default elementor-template-full-width elementor-kit-3 elementor-page elementor-page-546">
@@ -146,7 +151,7 @@ const Home = () => {
                           src={white}
                           class="attachment-full size-full wp-image-214 responsive-image"
                           alt=""
-                          srcSet={srcset}
+                          srcSet={whiteSrcSet}
                           // style={{ height: "700px", width: "1500px" }}
 
                           sizes="(max-width: 800px) 100vw, 800px"
@@ -476,7 +481,7 @@ const Home = () => {
                       <div class="elementor-widget-container">
                         <img
                           decoding="async"
-                          src="wp-content/uploads/sites/27/elementor/thumbs/young-handsome-man-enjoy-shopping-online-on-mobile-phone-with-credit-card-e1654518497463-ppwz5m8zpf4ixxn51ydcjblu3gm52jnlypj3hv0pvk.20.de"
+                          src={young}
                           title="Young Handsome man enjoy shopping online on mobile phone with credit card"
                           alt="Young Handsome man enjoy shopping online on mobile phone with credit card"
                           loading="lazy"
@@ -492,7 +497,8 @@ const Home = () => {
                       <div class="elementor-widget-container">
                         <img
                           decoding="async"
-                          src="wp-content/uploads/sites/27/elementor/thumbs/happy-beautiful-woman-holding-credit-card-in-hand-and-sitting-on-sofa-with-laptop-e1655014462705-pq6yva5ldjqywpuz55j5plwzo5o9k2f3cx2bwy05"
+                          src={old}
+                          // style={{ width: "1500px", height: "1000px" }}
                           title="happy beautiful woman holding credit card in hand and sitting on sofa with laptop"
                           alt="happy beautiful woman holding credit card in hand and sitting on sofa with laptop"
                           loading="lazy"
@@ -1443,10 +1449,10 @@ const Home = () => {
                           decoding="async"
                           width="1000"
                           height="1165"
-                          src="wp-content/uploads/sites/27/2022/06/mobile1-ADPM2QY.png"
+                          src={step}
                           class="attachment-full size-full wp-image-246"
                           alt=""
-                          srcset="https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/mobile1-ADPM2QY.png 1000w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/mobile1-ADPM2QY-258x300.png 258w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/mobile1-ADPM2QY-879x1024.png 879w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/mobile1-ADPM2QY-768x895.png 768w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/mobile1-ADPM2QY-800x932.png 800w"
+                          srcSet={blackSrcSet}
                           sizes="(max-width: 1000px) 100vw, 1000px"
                         />{" "}
                       </div>
