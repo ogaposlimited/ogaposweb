@@ -1051,7 +1051,7 @@ body:not(.rtl)
   .elementor-element.elementor-element-214b86dd
   .jeg-elementor-kit.jkit-pie-chart
   .pie-chart-content {
-  color: #1a043f;
+  color: #000;
   font-family: var(--e-global-typography-secondary-font-family), Sans-serif;
   font-size: var(--e-global-typography-secondary-font-size);
   font-weight: var(--e-global-typography-secondary-font-weight);
@@ -1062,7 +1062,7 @@ body:not(.rtl)
   .jeg-elementor-kit.jkit-pie-chart
   .pie-chart-content
   svg {
-  fill: #1a043f;
+  fill: #000;
 }
 .elementor-623
   .elementor-element.elementor-element-b646476
@@ -1109,7 +1109,7 @@ body:not(.rtl)
   .elementor-element.elementor-element-4055c466
   .jeg-elementor-kit.jkit-pie-chart
   .pie-chart-content {
-  color: #1a043f;
+  color: #000;
   font-family: var(--e-global-typography-secondary-font-family), Sans-serif;
   font-size: var(--e-global-typography-secondary-font-size);
   font-weight: var(--e-global-typography-secondary-font-weight);
