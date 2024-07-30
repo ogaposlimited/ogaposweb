@@ -5,7 +5,7 @@ import white from "./home.png";
 import young from "./shopping.jpg";
 import old from "./shop2.jpg";
 import Navbar from "../components/Navbar";
-import step from "./step.png";
+import step from "./quicks.png";
 import "./home.css";
 import Footer from "../components/Footer";
 const Home = () => {
