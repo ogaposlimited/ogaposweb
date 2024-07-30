@@ -1,10 +1,11 @@
 import { Badge } from "@material-ui/core";
 import { Search, ShoppingCartOutlined } from "@material-ui/icons";
 import React from "react";
-
+import white from "./home.png";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 const Home = () => {
+  const srcset = `${white} 800w, ${white} 213w, ${white} 726w, ${white} 768w`;
   return (
     <>
       <body class="home page-template page-template-elementor_header_footer page page-id-546 ehf-template-hello-elementor ehf-stylesheet-hello-elementor jkit-color-scheme elementor-default elementor-template-full-width elementor-kit-3 elementor-page elementor-page-546">
@@ -70,7 +71,7 @@ const Home = () => {
                       data-widget_type="text-editor.default"
                     >
                       <div class="elementor-widget-container">
-                        <p>
+                        <p style={{ color: "black", fontWeight: "600" }}>
                           OGAPOS is your safest, fastest and most reliable way
                           to get cash, send cash, paybills, buy Airtime and
                           data, Get cash when you need it and where you need it,
@@ -141,10 +142,12 @@ const Home = () => {
                           decoding="async"
                           width="800"
                           height="1128"
-                          src="wp-content/uploads/sites/27/2022/06/she-was-dressed-in-a-white-shirt-and-black-pants-t-KXJ8QB6.png"
+                          // src="wp-content/uploads/sites/27/2022/06/she-was-dressed-in-a-white-shirt-and-black-pants-t-KXJ8QB6.png"
+                          src={white}
                           class="attachment-full size-full wp-image-214"
                           alt=""
-                          srcset="https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/she-was-dressed-in-a-white-shirt-and-black-pants-t-KXJ8QB6.png 800w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/she-was-dressed-in-a-white-shirt-and-black-pants-t-KXJ8QB6-213x300.png 213w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/she-was-dressed-in-a-white-shirt-and-black-pants-t-KXJ8QB6-726x1024.png 726w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/she-was-dressed-in-a-white-shirt-and-black-pants-t-KXJ8QB6-768x1083.png 768w"
+                          srcSet={srcset}
+                          style={{ height: "700px", width: "1500px" }}
                           sizes="(max-width: 800px) 100vw, 800px"
                         />{" "}
                       </div>
@@ -344,6 +347,17 @@ const Home = () => {
                                     </span>
                                     <span class="elementor-icon-list-text">
                                       Waste Bills
+                                    </span>
+                                  </li>
+                                  <li class="elementor-icon-list-item">
+                                    <span class="elementor-icon-list-icon">
+                                      <i
+                                        aria-hidden="true"
+                                        class="fas fa-check"
+                                      ></i>{" "}
+                                    </span>
+                                    <span class="elementor-icon-list-text">
+                                      Ajo(Thrift)
                                     </span>
                                   </li>
                                 </ul>
