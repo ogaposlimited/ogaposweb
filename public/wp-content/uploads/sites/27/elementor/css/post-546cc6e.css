@@ -326,7 +326,7 @@ body.rtl .elementor-546 .elementor-element.elementor-element-758423bb {
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: transparent;
-  background-image: radial-gradient(at top left, #316332 0%, #316332 100%);
+  background-image: radial-gradient(at top left, #316332 0%, #f00 100%);
 }
 .elementor-546
   .elementor-element.elementor-element-2c7e4b49
@@ -3229,7 +3229,7 @@ body.rtl .elementor-546 .elementor-element.elementor-element-63c9c98 {
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: transparent;
-  background-image: radial-gradient(at top left, #9f5ffd 0%, #6800ff 100%);
+  background-image: radial-gradient(at top left, #316332 0%, #f00 100%);
 }
 .elementor-546
   .elementor-element.elementor-element-7062f580
@@ -4311,7 +4311,7 @@ body.rtl .elementor-546 .elementor-element.elementor-element-63c9c98 {
   .elementor-element.elementor-element-1bad5b4c
   > .elementor-background-overlay {
   background-color: transparent;
-  background-image: linear-gradient(340deg, #6800ff 0%, #9f5ffd 100%);
+  background-image: linear-gradient(340deg, #316332 0%, #f00 100%);
   opacity: 0.8;
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }

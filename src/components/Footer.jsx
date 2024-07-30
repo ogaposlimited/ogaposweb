@@ -11,7 +11,10 @@ import {
 const Footer = () => {
   return (
     <>
-      <body class="home page-template page-template-elementor_header_footer page page-id-546 ehf-template-hello-elementor ehf-stylesheet-hello-elementor jkit-color-scheme elementor-default elementor-template-full-width elementor-kit-3 elementor-page elementor-page-546">
+      <body
+        class="home page-template page-template-elementor_header_footer page page-id-546 ehf-template-hello-elementor ehf-stylesheet-hello-elementor jkit-color-scheme elementor-default elementor-template-full-width elementor-kit-3 elementor-page elementor-page-546"
+        style={{ backgroundCOlor: "black" }}
+      >
         <div id="page" class="jkit-template  site">
           <footer itemscope="itemscope" itemtype="https://schema.org/WPFooter">
             <div
