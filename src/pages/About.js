@@ -1,9 +1,11 @@
 import React from "react";
 
 import Navbar from "../components/Navbar";
+import white from "./home.png";
 import Footer from "../components/Footer";
 
 const About = () => {
+  const whiteSrcSet = `${white} 800w, ${white} 213w, ${white} 726w, ${white} 768w`;
   return (
     <>
       <body class="page-template page-template-elementor_header_footer page page-id-623 ehf-template-hello-elementor ehf-stylesheet-hello-elementor jkit-color-scheme elementor-default elementor-template-full-width elementor-kit-3 elementor-page elementor-page-623">
@@ -96,7 +98,7 @@ const About = () => {
                               ></i>{" "}
                             </span>
                             <span class="elementor-icon-list-text">
-                              About Company
+                              About OGAPOS
                             </span>
                           </li>
                         </ul>
@@ -110,7 +112,7 @@ const About = () => {
                     >
                       <div class="elementor-widget-container">
                         <h2 class="elementor-heading-title elementor-size-default">
-                          We Are The Best Online Payment Gateway Agency
+                          We Are The Best Payment Service in Nigeria
                         </h2>{" "}
                       </div>
                     </div>
@@ -122,11 +124,9 @@ const About = () => {
                     >
                       <div class="elementor-widget-container">
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua. Ut enim ad minim veniam labore et
-                          dolore magna aliqua.
-                        </p>{" "}
+                          OGAPOS is your reliable partner for all payment
+                          solutions.
+                        </p>
                       </div>
                     </div>
                     <section
@@ -159,7 +159,7 @@ const About = () => {
                                       </div>
                                     </div>
                                     <div class="icon-box icon-box-body">
-                                      <h3 class="title">Our Vision</h3>
+                                      <h3 class="title"> We are Safe</h3>
                                     </div>
                                   </div>
                                 </div>{" "}
@@ -180,9 +180,10 @@ const About = () => {
                               data-widget_type="text-editor.default"
                             >
                               <div class="elementor-widget-container">
-                                Accusamus et iusto odio dignissimos ducimus qui
-                                blanditiis praesentium voluptatum deleniti atque
-                                corrupti quos dolores blanditiis praesentium.{" "}
+                                Your security is our top priority. With OGAPOS,
+                                you can be assured that all your transactions
+                                are protected, giving you peace of mind every
+                                step of the way.
                               </div>
                             </div>
                           </div>
@@ -219,7 +220,7 @@ const About = () => {
                                       </div>
                                     </div>
                                     <div class="icon-box icon-box-body">
-                                      <h3 class="title">Our Mission</h3>
+                                      <h3 class="title"> We are Fast</h3>
                                     </div>
                                   </div>
                                 </div>{" "}
@@ -240,9 +241,72 @@ const About = () => {
                               data-widget_type="text-editor.default"
                             >
                               <div class="elementor-widget-container">
-                                Accusamus et iusto odio dignissimos ducimus qui
-                                blanditiis praesentium voluptatum deleniti atque
-                                corrupti quos dolores blanditiis praesentium.{" "}
+                                Time is money, and we value yours. OGAPOS
+                                ensures that all your transactions are processed
+                                swiftly and efficiently, so you can get cash,
+                                send money, pay bills, and purchase airtime and
+                                data in a matter of seconds.
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </section>
+                    <section
+                      class="elementor-section elementor-inner-section elementor-element elementor-element-2863fb38 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                      data-id="2863fb38"
+                      data-element_type="section"
+                    >
+                      <div class="elementor-container elementor-column-gap-no">
+                        <div
+                          class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a76c888"
+                          data-id="a76c888"
+                          data-element_type="column"
+                        >
+                          <div class="elementor-widget-wrap elementor-element-populated">
+                            <div
+                              class="elementor-element elementor-element-32ddcd3 jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box"
+                              data-id="32ddcd3"
+                              data-element_type="widget"
+                              data-widget_type="jkit_icon_box.default"
+                            >
+                              <div class="elementor-widget-container">
+                                <div class="jeg-elementor-kit jkit-icon-box icon-position- elementor-animation- jeg_module_623_2_66a66a170da45">
+                                  <div class="jkit-icon-box-wrapper hover-from-left">
+                                    <div class="icon-box icon-box-header elementor-animation-">
+                                      <div class="icon style-color">
+                                        <i
+                                          aria-hidden="true"
+                                          class="jki jki-trending-up-line"
+                                        ></i>
+                                      </div>
+                                    </div>
+                                    <div class="icon-box icon-box-body">
+                                      <h3 class="title"> We are reliable</h3>
+                                    </div>
+                                  </div>
+                                </div>{" "}
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7041a834"
+                          data-id="7041a834"
+                          data-element_type="column"
+                        >
+                          <div class="elementor-widget-wrap elementor-element-populated">
+                            <div
+                              class="elementor-element elementor-element-4dad55de elementor-widget elementor-widget-text-editor"
+                              data-id="4dad55de"
+                              data-element_type="widget"
+                              data-widget_type="text-editor.default"
+                            >
+                              <div class="elementor-widget-container">
+                                Trust is earned, and we are committed to earning
+                                yours. OGAPOS stands out for its consistent and
+                                dependable services, ensuring that you can rely
+                                on us for all your financial needs, every time.
                               </div>
                             </div>
                           </div>
@@ -289,10 +353,10 @@ const About = () => {
                           decoding="async"
                           width="1000"
                           height="1069"
-                          src="../wp-content/uploads/sites/27/2022/06/mobile2-ADPM2QY.png"
+                          src={white}
                           class="attachment-full size-full wp-image-247"
                           alt=""
-                          srcset="https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/mobile2-ADPM2QY.png 1000w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/mobile2-ADPM2QY-281x300.png 281w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/mobile2-ADPM2QY-958x1024.png 958w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/mobile2-ADPM2QY-768x821.png 768w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/mobile2-ADPM2QY-800x855.png 800w"
+                          srcset={whiteSrcSet}
                           sizes="(max-width: 1000px) 100vw, 1000px"
                         />{" "}
                       </div>
@@ -951,9 +1015,13 @@ const About = () => {
                       data-widget_type="text-editor.default"
                     >
                       <div class="elementor-widget-container">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusm tempor incididunt ut labore et dolore magna
-                        aliqua.{" "}
+                        At OGAPOS, we are committed to providing exceptional
+                        support to our customers. Whether you need assistance
+                        with your transactions, have questions about our
+                        services, or need help with your account, our dedicated
+                        support team is here to help. Reach out to us via our
+                        contact page or call our support hotline for prompt and
+                        reliable assistance.
                       </div>
                     </div>
                     <div
@@ -979,7 +1047,7 @@ const About = () => {
                             </h3>
 
                             <p class="elementor-icon-box-description">
-                              support@domain.com{" "}
+                              info@ogapos.com
                             </p>
                           </div>
                         </div>
@@ -1008,7 +1076,7 @@ const About = () => {
                             </h3>
 
                             <p class="elementor-icon-box-description">
-                              (+62) 81 158 2158{" "}
+                              +234 707 877 1831, +234 803 876 3637
                             </p>
                           </div>
                         </div>
@@ -1048,7 +1116,7 @@ const About = () => {
                               ></i>{" "}
                             </span>
                             <span class="elementor-icon-list-text">
-                              Interested To Try
+                              you want to give us a try?
                             </span>
                           </li>
                         </ul>
@@ -1062,7 +1130,8 @@ const About = () => {
                     >
                       <div class="elementor-widget-container">
                         <h2 class="elementor-heading-title elementor-size-default">
-                          Still Confused With Our Service? Get Free Trial
+                          {" "}
+                          We provide seamless financial services
                         </h2>{" "}
                       </div>
                     </div>
@@ -1074,9 +1143,13 @@ const About = () => {
                     >
                       <div class="elementor-widget-container">
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua.
+                          {" "}
+                          Still unsure about our services? We invite you to
+                          visit any of our offices to make inquiries, lodge
+                          complaints, or simply verify our authenticity. Our
+                          friendly and professional staff are always ready to
+                          assist you and provide all the information you need to
+                          feel confident in choosing OGAPOS.
                         </p>{" "}
                       </div>
                     </div>
@@ -1094,7 +1167,7 @@ const About = () => {
                           >
                             <span class="elementor-button-content-wrapper">
                               <span class="elementor-button-text">
-                                Try Free Trial
+                                Contact Us
                               </span>
                             </span>
                           </a>
@@ -1105,7 +1178,7 @@ const About = () => {
                 </div>
               </div>
             </section>
-            <section
+            {/*} <section
               class="elementor-section elementor-top-section elementor-element elementor-element-fa52656 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
               data-id="fa52656"
               data-element_type="section"
@@ -1551,8 +1624,8 @@ const About = () => {
                   </div>
                 </div>
               </div>
-            </section>
-            <section
+            </section>*/}
+            {/*} <section
               class="elementor-section elementor-top-section elementor-element elementor-element-f4e08f9 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
               data-id="f4e08f9"
               data-element_type="section"
@@ -1662,7 +1735,7 @@ const About = () => {
                   </div>
                 </div>
               </div>
-            </section>
+            </section>*/}
           </div>
           <Footer />
         </div>
