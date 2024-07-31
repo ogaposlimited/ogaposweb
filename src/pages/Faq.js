@@ -94,7 +94,7 @@ const Faq = () => {
                               <i
                                 aria-hidden="true"
                                 class="far fa-dot-circle"
-                              ></i>{" "}
+                              ></i>
                             </span>
                             <span class="elementor-icon-list-text">FAQ</span>
                           </li>
@@ -109,8 +109,8 @@ const Faq = () => {
                     >
                       <div class="elementor-widget-container">
                         <h2 class="elementor-heading-title elementor-size-default">
-                          General Question
-                        </h2>{" "}
+                          General Questions
+                        </h2>
                       </div>
                     </div>
                     <div
@@ -131,7 +131,8 @@ const Faq = () => {
                                 aria-controls="expand-8fab880"
                               >
                                 <span class="title">
-                                  Where Can I Find More Information?
+                                  Is There a Minimum or Maximum Amount for
+                                  Transactions?
                                 </span>
                                 <div class="right-icon-group">
                                   <div class="normal-icon">
@@ -152,17 +153,16 @@ const Faq = () => {
                             <div
                               class="card-expand"
                               id="expand-8fab880"
-                              style={{ display: "block" }}
+                              style="display: block;"
                             >
                               <div class="card-body">
-                                Lorem ipsum dolor sit amet, consectetuer
-                                adipiscing elit. Aenean commodo ligula eget
-                                dolor. Aenean massa. Cum sociis natoque
-                                penatibus et magnis dis parturient montes
+                                There may be minimum and maximum limits for
+                                different types of transactions. Please contact
+                                customer support for specific details.
                               </div>
                             </div>
                           </div>
-                          <div class="card-wrapper ">
+                          <div class="card-wrapper">
                             <div class="card-header background-gradient">
                               <a
                                 href="#expand-c8565b5"
@@ -172,7 +172,8 @@ const Faq = () => {
                                 aria-controls="expand-c8565b5"
                               >
                                 <span class="title">
-                                  What Are Your Terms and Conditions?
+                                  What Should I Do If I Encounter an Issue With
+                                  My Transaction?
                                 </span>
                                 <div class="right-icon-group">
                                   <div class="normal-icon">
@@ -193,17 +194,17 @@ const Faq = () => {
                             <div
                               class="card-expand"
                               id="expand-c8565b5"
-                              style={{ display: "none" }}
+                              style="display: none;"
                             >
                               <div class="card-body">
-                                Lorem ipsum dolor sit amet, consectetuer
-                                adipiscing elit. Aenean commodo ligula eget
-                                dolor. Aenean massa. Cum sociis natoque
-                                penatibus et magnis dis parturient montes
+                                If you encounter any issues with your
+                                transaction, please contact our customer support
+                                immediately. We are available 24/7 to assist you
+                                and resolve any problems.
                               </div>
                             </div>
                           </div>
-                          <div class="card-wrapper ">
+                          <div class="card-wrapper">
                             <div class="card-header background-gradient">
                               <a
                                 href="#expand-34c3ab0"
@@ -234,21 +235,63 @@ const Faq = () => {
                             <div
                               class="card-expand"
                               id="expand-34c3ab0"
-                              style={{ display: "none" }}
+                              style="display: none;"
                             >
                               <div class="card-body">
-                                Lorem ipsum dolor sit amet, consectetuer
-                                adipiscing elit. Aenean commodo ligula eget
-                                dolor. Aenean massa. Cum sociis natoque
-                                penatibus et magnis dis parturient montes
+                                We accept various forms of payment including
+                                cash, bank transfers, and major credit/debit
+                                cards for our POS transactions, bill payments,
+                                and other services.
                               </div>
                             </div>
                           </div>
-                        </div>{" "}
+                          <div class="card-wrapper">
+                            <div class="card-header background-gradient">
+                              <a
+                                href="#expand-1baf2f0"
+                                class="card-header-button"
+                                aria-expanded="false"
+                                data-target="#expand-1baf2f0"
+                                aria-controls="expand-1baf2f0"
+                              >
+                                <span class="title">
+                                  How Can I Join the Ajo (Thrift) Program?
+                                </span>
+                                <div class="right-icon-group">
+                                  <div class="normal-icon">
+                                    <i
+                                      aria-hidden="true"
+                                      class="fas fa-chevron-down"
+                                    ></i>
+                                  </div>
+                                  <div class="active-icon">
+                                    <i
+                                      aria-hidden="true"
+                                      class="fas fa-chevron-up"
+                                    ></i>
+                                  </div>
+                                </div>
+                              </a>
+                            </div>
+                            <div
+                              class="card-expand"
+                              id="expand-1baf2f0"
+                              style="display: none;"
+                            >
+                              <div class="card-body">
+                                To join our Ajo (Thrift) program, you can
+                                contact our customer service for assistance. Our
+                                representatives will guide you through the
+                                process. 07078771831
+                              </div>
+                            </div>
+                          </div>
+                        </div>
                       </div>
                     </div>
                   </div>
                 </div>
+
                 <div
                   class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-61096ea"
                   data-id="61096ea"
