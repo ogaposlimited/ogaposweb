@@ -123,9 +123,10 @@ const Contact = () => {
                     >
                       <div class="elementor-widget-container">
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua.
+                          want to know more about our services, or have any
+                          other inquiries, our team is ready to assist you. Feel
+                          free to reach out to us via phone, email, or by
+                          visiting one of our locations.
                         </p>{" "}
                       </div>
                     </div>
@@ -169,9 +170,14 @@ const Contact = () => {
                                 <div class="jeg-elementor-kit jkit-icon-box icon-position- elementor-animation- jeg_module_948_1_66a66a1db1aac">
                                   <div class="jkit-icon-box-wrapper hover-from-left">
                                     <div class="icon-box icon-box-body">
-                                      <h3 class="title">Our Office</h3>
+                                      <h3 class="title">Our offices</h3>
                                       <p class="icon-box-description">
-                                        Jl. Raya Puputan No 142, Denpasar, Bali{" "}
+                                        Cvilla resort, Road 45, lekki peninsula
+                                        scheme II, Ajah, Lagos
+                                      </p>
+                                      <p class="icon-box-description">
+                                        i201 Ogba Multipurpose shopping complex,
+                                        wempco road, Ikeja, Lagos
                                       </p>
                                     </div>
                                   </div>
@@ -216,7 +222,8 @@ const Contact = () => {
                                     <div class="icon-box icon-box-body">
                                       <h3 class="title">Our Phone</h3>
                                       <p class="icon-box-description">
-                                        (+62) 81 158 2158 | Hotline 112-110-566
+                                        (+234) 707 877 1831 | Hotline (+234) 707
+                                        877 1831, +234 803 876 3637
                                       </p>
                                     </div>
                                   </div>
@@ -261,7 +268,7 @@ const Contact = () => {
                                     <div class="icon-box icon-box-body">
                                       <h3 class="title">Our Email</h3>
                                       <p class="icon-box-description">
-                                        payze@domain.com support@info.com
+                                        info@ogapos.com
                                       </p>
                                     </div>
                                   </div>
@@ -306,7 +313,7 @@ const Contact = () => {
                                     <div class="icon-box icon-box-body">
                                       <h3 class="title">Working Hours</h3>
                                       <p class="icon-box-description">
-                                        Mon - Fri : 9:00 AM - 5:00 PM, Sun :
+                                        Mon - Sat : 8:00 AM - 9:00 PM, Sun :
                                         Closed
                                       </p>
                                     </div>
@@ -339,10 +346,13 @@ const Contact = () => {
                               <div class="elementor-widget-container">
                                 <div class="elementor-custom-embed">
                                   <iframe
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.533756387091!2d3.576358074027861!3d6.45384342397089!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103bf76180c1af57%3A0xda2430d35f331824!2sCVilla%20Resort!5e0!3m2!1sen!2sng!4v1722450189122!5m2!1sen!2sng"
+                                    width="600"
+                                    height="450"
+                                    style="border:0;"
+                                    allowfullscreen=""
                                     loading="lazy"
-                                    src="https://maps.google.com/maps?q=jl.%20Raya%20puputan&amp;t=m&amp;z=15&amp;output=embed&amp;iwloc=near"
-                                    title="jl. Raya puputan"
-                                    aria-label="jl. Raya puputan"
+                                    referrerpolicy="no-referrer-when-downgrade"
                                   ></iframe>
                                 </div>
                               </div>
@@ -396,38 +406,41 @@ const Contact = () => {
                               data-element_type="widget"
                               data-widget_type="metform.default"
                             >
-                              <div class="elementor-widget-container">
-                                <div
-                                  id="mf-response-props-id-966"
-                                  data-previous-steps-style=""
-                                  data-editswitchopen=""
-                                  data-response_type="alert"
-                                  data-erroricon="fas fa-exclamation-triangle"
-                                  data-successicon="fas fa-check"
-                                  data-messageposition="top"
-                                  class="   mf-scroll-top-no"
-                                >
-                                  <div
-                                    class="formpicker_warper formpicker_warper_editable"
-                                    data-metform-formpicker-key="966"
-                                  >
-                                    <div class="elementor-widget-container">
-                                      <div
-                                        id="metform-wrap-bf19d2f-966"
-                                        class="mf-form-wrapper"
-                                        data-form-id="966"
-                                        data-action="https://kit.baliniz.com/payze/wp-json/metform/v1/entries/insert/966"
-                                        data-wp-nonce="25774c6a0d"
-                                        data-form-nonce="9c452fee42"
-                                        data-quiz-summery="false"
-                                        data-save-progress="false"
-                                        data-form-type="contact_form"
-                                        data-stop-vertical-effect=""
-                                      ></div>
-                                    </div>
-                                  </div>
-                                </div>{" "}
-                              </div>
+                              <form>
+                                <div>
+                                  <label htmlFor="name">Name</label>
+                                  <input
+                                    type="text"
+                                    id="name"
+                                    name="name"
+                                    style={{ marginBottom: "20px" }}
+                                    required
+                                  />
+                                </div>
+                                <div>
+                                  <label htmlFor="email">Email</label>
+                                  <input
+                                    type="email"
+                                    id="email"
+                                    name="email"
+                                    style={{ marginBottom: "20px" }}
+                                    required
+                                  />
+                                </div>
+                                <div>
+                                  <label htmlFor="message">Message</label>
+                                  <textarea
+                                    id="message"
+                                    name="message"
+                                    required
+                                    style={{
+                                      height: "200px",
+                                      marginBottom: "20px",
+                                    }}
+                                  ></textarea>
+                                </div>
+                                <button type="submit">Send Message</button>
+                              </form>
                             </div>
                           </div>
                         </div>
