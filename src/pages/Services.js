@@ -111,7 +111,7 @@ const Services = () => {
                     >
                       <div class="elementor-widget-container">
                         <h2 class="elementor-heading-title elementor-size-default">
-                          We Prioritize Transaction Security
+                          We Prioritize Customer Satisfaction
                         </h2>{" "}
                       </div>
                     </div>
@@ -123,9 +123,9 @@ const Services = () => {
                     >
                       <div class="elementor-widget-container">
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua.
+                          Our services are designed to be user-friendly,
+                          reliable, and tailored to meet your needs. Whether you
+                          are accessing cash, sending money, paying bills etc
                         </p>{" "}
                       </div>
                     </div>
@@ -169,27 +169,16 @@ const Services = () => {
                                 <div class="jeg-elementor-kit jkit-icon-box icon-position- elementor-animation- jeg_module_837_1_66a66a16c3c4c">
                                   <div class="jkit-icon-box-wrapper hover-from-left">
                                     <div class="icon-box icon-box-body">
-                                      <h3 class="title">Secure Payments</h3>
+                                      <h3 class="title">
+                                        {" "}
+                                        POS (Get cash, send cash etc)
+                                      </h3>
                                       <p class="icon-box-description">
-                                        Lorem ipsum dolor sit amet, consect
-                                        adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore eius.
+                                        Access cash quickly and conveniently,
+                                        whenever and wherever you need it,
+                                        Safely and securely send money to family
+                                        and friends.
                                       </p>
-                                      <div class="icon-box-button ">
-                                        <div class="btn-wrapper icon-position-after">
-                                          <a
-                                            href="#"
-                                            class="icon-box-link"
-                                            aria-label="Read More"
-                                          >
-                                            Read More
-                                            <i
-                                              aria-hidden="true"
-                                              class="fas fa-long-arrow-alt-right"
-                                            ></i>
-                                          </a>
-                                        </div>
-                                      </div>
                                     </div>
                                   </div>
                                 </div>{" "}
@@ -231,27 +220,11 @@ const Services = () => {
                                 <div class="jeg-elementor-kit jkit-icon-box icon-position- elementor-animation- jeg_module_837_2_66a66a16c5bf5">
                                   <div class="jkit-icon-box-wrapper hover-from-left">
                                     <div class="icon-box icon-box-body">
-                                      <h3 class="title">Investing Features</h3>
+                                      <h3 class="title">Utility Bills</h3>
                                       <p class="icon-box-description">
-                                        Lorem ipsum dolor sit amet, consect
-                                        adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore eius.
+                                        Pay your utility bills, school fees, and
+                                        other expenses with ease.
                                       </p>
-                                      <div class="icon-box-button ">
-                                        <div class="btn-wrapper icon-position-after">
-                                          <a
-                                            href="#"
-                                            class="icon-box-link"
-                                            aria-label="Read More"
-                                          >
-                                            Read More
-                                            <i
-                                              aria-hidden="true"
-                                              class="fas fa-long-arrow-alt-right"
-                                            ></i>
-                                          </a>
-                                        </div>
-                                      </div>
                                     </div>
                                   </div>
                                 </div>{" "}
@@ -293,27 +266,11 @@ const Services = () => {
                                 <div class="jeg-elementor-kit jkit-icon-box icon-position- elementor-animation- jeg_module_837_3_66a66a16c9622">
                                   <div class="jkit-icon-box-wrapper hover-from-left">
                                     <div class="icon-box icon-box-body">
-                                      <h3 class="title">No Hidden Fees</h3>
+                                      <h3 class="title">Airtime and Data</h3>
                                       <p class="icon-box-description">
-                                        Lorem ipsum dolor sit amet, consect
-                                        adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore eius.
+                                        Purchase airtime and data bundles
+                                        instantly for all major networks.
                                       </p>
-                                      <div class="icon-box-button ">
-                                        <div class="btn-wrapper icon-position-after">
-                                          <a
-                                            href="#"
-                                            class="icon-box-link"
-                                            aria-label="Read More"
-                                          >
-                                            Read More
-                                            <i
-                                              aria-hidden="true"
-                                              class="fas fa-long-arrow-alt-right"
-                                            ></i>
-                                          </a>
-                                        </div>
-                                      </div>
                                     </div>
                                   </div>
                                 </div>{" "}
@@ -363,27 +320,12 @@ const Services = () => {
                                 <div class="jeg-elementor-kit jkit-icon-box icon-position- elementor-animation- jeg_module_837_4_66a66a16cc1f8">
                                   <div class="jkit-icon-box-wrapper hover-from-left">
                                     <div class="icon-box icon-box-body">
-                                      <h3 class="title">No Hidden Fees</h3>
+                                      <h3 class="title">Ajo(Thrift)</h3>
                                       <p class="icon-box-description">
-                                        Lorem ipsum dolor sit amet, consect
-                                        adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore eius.
+                                        Join our thrift program to save money,
+                                        manage your finances better, and achieve
+                                        financial freedom.
                                       </p>
-                                      <div class="icon-box-button ">
-                                        <div class="btn-wrapper icon-position-after">
-                                          <a
-                                            href="#"
-                                            class="icon-box-link"
-                                            aria-label="Read More"
-                                          >
-                                            Read More
-                                            <i
-                                              aria-hidden="true"
-                                              class="fas fa-long-arrow-alt-right"
-                                            ></i>
-                                          </a>
-                                        </div>
-                                      </div>
                                     </div>
                                   </div>
                                 </div>{" "}
@@ -425,27 +367,12 @@ const Services = () => {
                                 <div class="jeg-elementor-kit jkit-icon-box icon-position- elementor-animation- jeg_module_837_5_66a66a16ce15f">
                                   <div class="jkit-icon-box-wrapper hover-from-left">
                                     <div class="icon-box icon-box-body">
-                                      <h3 class="title">Split Payments</h3>
+                                      <h3 class="title">Ajo(Thrift)</h3>
                                       <p class="icon-box-description">
-                                        Lorem ipsum dolor sit amet, consect
-                                        adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore eius.
+                                        Join our thrift program to save money,
+                                        manage your finances better, and achieve
+                                        financial freedom.
                                       </p>
-                                      <div class="icon-box-button ">
-                                        <div class="btn-wrapper icon-position-after">
-                                          <a
-                                            href="#"
-                                            class="icon-box-link"
-                                            aria-label="Read More"
-                                          >
-                                            Read More
-                                            <i
-                                              aria-hidden="true"
-                                              class="fas fa-long-arrow-alt-right"
-                                            ></i>
-                                          </a>
-                                        </div>
-                                      </div>
                                     </div>
                                   </div>
                                 </div>{" "}
@@ -495,27 +422,12 @@ const Services = () => {
                                 <div class="jeg-elementor-kit jkit-icon-box icon-position- elementor-animation- jeg_module_837_6_66a66a16d0ba9">
                                   <div class="jkit-icon-box-wrapper hover-from-left">
                                     <div class="icon-box icon-box-body">
-                                      <h3 class="title">Split Payments</h3>
+                                      <h3 class="title">Ajo(Thrift)</h3>
                                       <p class="icon-box-description">
-                                        Lorem ipsum dolor sit amet, consect
-                                        adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore eius.
+                                        Join our thrift program to save money,
+                                        manage your finances better, and achieve
+                                        financial freedom.
                                       </p>
-                                      <div class="icon-box-button ">
-                                        <div class="btn-wrapper icon-position-after">
-                                          <a
-                                            href="#"
-                                            class="icon-box-link"
-                                            aria-label="Read More"
-                                          >
-                                            Read More
-                                            <i
-                                              aria-hidden="true"
-                                              class="fas fa-long-arrow-alt-right"
-                                            ></i>
-                                          </a>
-                                        </div>
-                                      </div>
                                     </div>
                                   </div>
                                 </div>{" "}
@@ -557,27 +469,14 @@ const Services = () => {
                                 <div class="jeg-elementor-kit jkit-icon-box icon-position- elementor-animation- jeg_module_837_7_66a66a16d2f93">
                                   <div class="jkit-icon-box-wrapper hover-from-left">
                                     <div class="icon-box icon-box-body">
-                                      <h3 class="title">World Class Support</h3>
+                                      <h3 class="title">
+                                        Waste Bill and Electricity bill
+                                      </h3>
                                       <p class="icon-box-description">
-                                        Lorem ipsum dolor sit amet, consect
-                                        adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore eius.
+                                        Pay your waste bill bills, electricity
+                                        bill, cable tv(dstc, gotv etc) with
+                                        OGAPOS
                                       </p>
-                                      <div class="icon-box-button ">
-                                        <div class="btn-wrapper icon-position-after">
-                                          <a
-                                            href="#"
-                                            class="icon-box-link"
-                                            aria-label="Read More"
-                                          >
-                                            Read More
-                                            <i
-                                              aria-hidden="true"
-                                              class="fas fa-long-arrow-alt-right"
-                                            ></i>
-                                          </a>
-                                        </div>
-                                      </div>
                                     </div>
                                   </div>
                                 </div>{" "}
@@ -619,27 +518,14 @@ const Services = () => {
                                 <div class="jeg-elementor-kit jkit-icon-box icon-position- elementor-animation- jeg_module_837_8_66a66a16d522c">
                                   <div class="jkit-icon-box-wrapper hover-from-left">
                                     <div class="icon-box icon-box-body">
-                                      <h3 class="title">Merchant Account</h3>
+                                      <h3 class="title">
+                                        Cash exchange and delivery
+                                      </h3>
                                       <p class="icon-box-description">
-                                        Lorem ipsum dolor sit amet, consect
-                                        adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore eius.
+                                        Let's help you get quick cash and
+                                        exhange that foreign currency, lets make
+                                        your transactions seamless
                                       </p>
-                                      <div class="icon-box-button ">
-                                        <div class="btn-wrapper icon-position-after">
-                                          <a
-                                            href="#"
-                                            class="icon-box-link"
-                                            aria-label="Read More"
-                                          >
-                                            Read More
-                                            <i
-                                              aria-hidden="true"
-                                              class="fas fa-long-arrow-alt-right"
-                                            ></i>
-                                          </a>
-                                        </div>
-                                      </div>
                                     </div>
                                   </div>
                                 </div>{" "}

@@ -7,6 +7,7 @@ import {
   Room,
   Twitter,
 } from "@material-ui/icons";
+import logo from "./oga1.png";
 
 const Footer = () => {
   return (
@@ -36,7 +37,7 @@ const Footer = () => {
                     data-element_type="column"
                   >
                     <div class="elementor-widget-wrap elementor-element-populated">
-                      <section
+                      {/*} <section
                         class="elementor-section elementor-inner-section elementor-element elementor-element-3aabed5 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                         data-id="3aabed5"
                         data-element_type="section"
@@ -126,7 +127,7 @@ const Footer = () => {
                             </div>
                           </div>
                         </div>
-                      </section>
+                      </section>*/}
                       <section
                         class="elementor-section elementor-inner-section elementor-element elementor-element-f45ce2d elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                         data-id="f45ce2d"
@@ -161,9 +162,9 @@ const Footer = () => {
                               >
                                 <div class="elementor-widget-container">
                                   <p>
-                                    Lorem ipsum dolor sit amet, consec 
-                                    adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore.
+                                    OGAPOS is your safest, fastest and most
+                                    reliable way to get cash, send cash,
+                                    paybills, buy Airtime and data.
                                   </p>{" "}
                                 </div>
                               </div>
@@ -179,6 +180,7 @@ const Footer = () => {
                                       <a
                                         class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-animation-shrink elementor-repeater-item-c0163ab"
                                         target="_blank"
+                                        href="https://facebook.com/ogaposnigltd"
                                       >
                                         <span class="elementor-screen-only">
                                           Facebook-f
@@ -190,6 +192,7 @@ const Footer = () => {
                                       <a
                                         class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-animation-shrink elementor-repeater-item-310ab07"
                                         target="_blank"
+                                        href="https://x.com/ogaposnigltd"
                                       >
                                         <span class="elementor-screen-only">
                                           Twitter
@@ -201,6 +204,7 @@ const Footer = () => {
                                       <a
                                         class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-shrink elementor-repeater-item-63f86db"
                                         target="_blank"
+                                        href="https://instagram.com/ogaposnigltd"
                                       >
                                         <span class="elementor-screen-only">
                                           Instagram
@@ -212,6 +216,7 @@ const Footer = () => {
                                       <a
                                         class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-animation-shrink elementor-repeater-item-d54d883"
                                         target="_blank"
+                                        href="https://youtube.com/ogaposnigltd"
                                       >
                                         <span class="elementor-screen-only">
                                           Youtube
@@ -258,28 +263,22 @@ const Footer = () => {
                                       </a>
                                     </li>
                                     <li class="elementor-icon-list-item">
-                                      <a href="#">
+                                      <a href="services">
                                         <span class="elementor-icon-list-text">
                                           Services
                                         </span>
                                       </a>
                                     </li>
+
                                     <li class="elementor-icon-list-item">
-                                      <a href="#">
+                                      <a href="pos-agent">
                                         <span class="elementor-icon-list-text">
-                                          Projects
+                                          Become a POS agent
                                         </span>
                                       </a>
                                     </li>
                                     <li class="elementor-icon-list-item">
-                                      <a href="#">
-                                        <span class="elementor-icon-list-text">
-                                          Pricing
-                                        </span>
-                                      </a>
-                                    </li>
-                                    <li class="elementor-icon-list-item">
-                                      <a href="#">
+                                      <a href="contact">
                                         <span class="elementor-icon-list-text">
                                           Contact
                                         </span>
@@ -316,36 +315,30 @@ const Footer = () => {
                               >
                                 <div class="elementor-widget-container">
                                   <ul class="elementor-icon-list-items">
-                                    <li class="elementor-icon-list-item">
+                                    {/*}  <li class="elementor-icon-list-item">
                                       <a href="#">
                                         <span class="elementor-icon-list-text">
                                           Privacy Policy
                                         </span>
                                       </a>
-                                    </li>
+                                    </li>*/}
                                     <li class="elementor-icon-list-item">
-                                      <a href="#">
+                                      <a href="terms">
                                         <span class="elementor-icon-list-text">
                                           Terms & Conditions
                                         </span>
                                       </a>
                                     </li>
+
                                     <li class="elementor-icon-list-item">
-                                      <a href="#">
-                                        <span class="elementor-icon-list-text">
-                                          Disclaimer
-                                        </span>
-                                      </a>
-                                    </li>
-                                    <li class="elementor-icon-list-item">
-                                      <a href="#">
+                                      <a href="support">
                                         <span class="elementor-icon-list-text">
                                           Support
                                         </span>
                                       </a>
                                     </li>
                                     <li class="elementor-icon-list-item">
-                                      <a href="#">
+                                      <a href="faq">
                                         <span class="elementor-icon-list-text">
                                           FAQ
                                         </span>
@@ -356,7 +349,7 @@ const Footer = () => {
                               </div>
                             </div>
                           </div>
-                          <div
+                          {/*} <div
                             class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-f5528b5"
                             data-id="f5528b5"
                             data-element_type="column"
@@ -426,6 +419,59 @@ const Footer = () => {
                                 </div>
                               </div>
                             </div>
+                          </div>*/}
+                          <div
+                            class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-dc35c84"
+                            data-id="dc35c84"
+                            data-element_type="column"
+                          >
+                            <div class="elementor-widget-wrap elementor-element-populated">
+                              <div
+                                class="elementor-element elementor-element-95907da elementor-widget elementor-widget-heading"
+                                data-id="95907da"
+                                data-element_type="widget"
+                                data-widget_type="heading.default"
+                              >
+                                <div class="elementor-widget-container">
+                                  <h4 class="elementor-heading-title elementor-size-default">
+                                    Info
+                                  </h4>{" "}
+                                </div>
+                              </div>
+                              <div
+                                class="elementor-element elementor-element-597e242 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
+                                data-id="597e242"
+                                data-element_type="widget"
+                                data-widget_type="icon-list.default"
+                              >
+                                <div class="elementor-widget-container">
+                                  <ul class="elementor-icon-list-items">
+                                    <li class="elementor-icon-list-item">
+                                      <a>
+                                        <span class="elementor-icon-list-text">
+                                          +234-707-877-1831, +234-803-876-3637
+                                        </span>
+                                      </a>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                      <a>
+                                        <span class="elementor-icon-list-text">
+                                          info@ogapos.com
+                                        </span>
+                                      </a>
+                                    </li>
+
+                                    <li class="elementor-icon-list-item">
+                                      <a>
+                                        <span class="elementor-icon-list-text">
+                                          support@ogapos.com
+                                        </span>
+                                      </a>
+                                    </li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
                           </div>
                         </div>
                       </section>
@@ -452,7 +498,8 @@ const Footer = () => {
                                   <img
                                     width="800"
                                     height="244"
-                                    src="wp-content/uploads/sites/27/2022/06/logo-payze-2-e1655014444821.png"
+                                    src={logo}
+                                    style={{ width: "200px", height: "200px" }}
                                     class="attachment-full size-full wp-image-223"
                                     alt=""
                                     decoding="async"
@@ -474,8 +521,8 @@ const Footer = () => {
                                 data-widget_type="text-editor.default"
                               >
                                 <div class="elementor-widget-container">
-                                  © Copyright &#8211; Payze By Baliniz 2022. All
-                                  rights reserved.{" "}
+                                  © Copyright &#8211; OgaPos 2024. All rights
+                                  reserved.{" "}
                                 </div>
                               </div>
                             </div>

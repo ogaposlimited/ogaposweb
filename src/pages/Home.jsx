@@ -97,7 +97,7 @@ const Home = () => {
                         <div class="elementor-button-wrapper">
                           <a
                             class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink"
-                            href="#"
+                            href="contact"
                           >
                             <span class="elementor-button-content-wrapper">
                               <span class="elementor-button-text">
@@ -118,7 +118,7 @@ const Home = () => {
                         <div class="elementor-button-wrapper">
                           <a
                             class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink"
-                            href="#"
+                            href="services"
                           >
                             <span class="elementor-button-content-wrapper">
                               <span class="elementor-button-text">
@@ -435,7 +435,7 @@ const Home = () => {
                                 <div class="elementor-button-wrapper">
                                   <a
                                     class="elementor-button elementor-button-link elementor-size-sm"
-                                    href="#"
+                                    href="services"
                                   >
                                     <span class="elementor-button-content-wrapper">
                                       <span class="elementor-button-icon elementor-align-icon-right">
@@ -897,14 +897,9 @@ const Home = () => {
                     >
                       <div class="elementor-widget-container">
                         <p>
-                          At OGAPOS, we are dedicated to ensuring your complete
-                          satisfaction. Our services are designed to be
-                          user-friendly, reliable, and tailored to meet your
-                          needs. Whether you are accessing cash, sending money,
-                          paying bills, or purchasing airtime and data, we
-                          strive to provide an exceptional experience every
-                          time. Let OGAPOS help you achieve your financial goals
-                          with ease and convenience.
+                          Our services are designed to be user-friendly,
+                          reliable, and tailored to meet your needs. Whether you
+                          are accessing cash, sending money, paying bills etc
                         </p>
                       </div>
                     </div>
@@ -960,7 +955,7 @@ const Home = () => {
                                       <div class="icon-box-button ">
                                         <div class="btn-wrapper icon-position-after">
                                           <a
-                                            href="#"
+                                            href="services"
                                             class="icon-box-link"
                                             aria-label="Read More"
                                           >
@@ -1021,7 +1016,7 @@ const Home = () => {
                                       <div class="icon-box-button ">
                                         <div class="btn-wrapper icon-position-after">
                                           <a
-                                            href="#"
+                                            href="services"
                                             class="icon-box-link"
                                             aria-label="Read More"
                                           >
@@ -1082,7 +1077,7 @@ const Home = () => {
                                       <div class="icon-box-button ">
                                         <div class="btn-wrapper icon-position-after">
                                           <a
-                                            href="#"
+                                            href="services"
                                             class="icon-box-link"
                                             aria-label="Read More"
                                           >
@@ -1152,7 +1147,7 @@ const Home = () => {
                                       <div class="icon-box-button ">
                                         <div class="btn-wrapper icon-position-after">
                                           <a
-                                            href="#"
+                                            href="services"
                                             class="icon-box-link"
                                             aria-label="Read More"
                                           >
@@ -1214,7 +1209,7 @@ const Home = () => {
                                       <div class="icon-box-button ">
                                         <div class="btn-wrapper icon-position-after">
                                           <a
-                                            href="#"
+                                            href="services"
                                             class="icon-box-link"
                                             aria-label="Read More"
                                           >
@@ -1336,7 +1331,7 @@ const Home = () => {
                                       <div class="icon-box-button ">
                                         <div class="btn-wrapper icon-position-after">
                                           <a
-                                            href="#"
+                                            href="services"
                                             class="icon-box-link"
                                             aria-label="Read More"
                                           >
@@ -1400,7 +1395,7 @@ const Home = () => {
                                       <div class="icon-box-button ">
                                         <div class="btn-wrapper icon-position-after">
                                           <a
-                                            href="#"
+                                            href="services"
                                             class="icon-box-link"
                                             aria-label="Read More"
                                           >
