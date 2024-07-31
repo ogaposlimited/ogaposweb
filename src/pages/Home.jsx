@@ -6,6 +6,8 @@ import young from "./woman.jpg";
 import old from "./shop2.jpg";
 import Navbar from "../components/Navbar";
 import step from "./quicks.png";
+import oil from "./safe.png";
+import hiab from "./ran.png";
 import "./home.css";
 import Footer from "../components/Footer";
 const Home = () => {
@@ -1275,7 +1277,7 @@ const Home = () => {
                                 <div class="elementor-button-wrapper">
                                   <a
                                     class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink"
-                                    href="#"
+                                    href="services"
                                   >
                                     <span class="elementor-button-content-wrapper">
                                       <span class="elementor-button-text">
@@ -2438,12 +2440,12 @@ const Home = () => {
                                               decoding="async"
                                               width="333"
                                               height="83"
-                                              src="wp-content/uploads/sites/27/2022/06/partner-1-1.png"
+                                              src={oil}
                                               class="main-image"
                                               alt="Title"
                                               url="wp-content/uploads/sites/27/2022/06/partner-1-1.png"
                                               source="library"
-                                              srcset="https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/partner-1-1.png 333w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/partner-1-1-300x75.png 300w"
+                                              srcset={oil}
                                               sizes="(max-width: 333px) 100vw, 333px"
                                             />
                                           </div>
@@ -2457,51 +2459,14 @@ const Home = () => {
                                               decoding="async"
                                               width="336"
                                               height="81"
-                                              src="wp-content/uploads/sites/27/2022/06/partner-2-1.png"
+                                              src={hiab}
                                               class="main-image"
                                               alt="Title"
                                               url="wp-content/uploads/sites/27/2022/06/partner-2-1.png"
                                               source="library"
-                                              srcset="https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/partner-2-1.png 336w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/partner-2-1-300x72.png 300w"
+                                              // srcset="https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/partner-2-1.png 336w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/partner-2-1-300x72.png 300w"
+                                              srcset={hiab}
                                               sizes="(max-width: 336px) 100vw, 336px"
-                                            />
-                                          </div>
-                                        </div>
-                                      </div>
-                                      <div class="client-slider item ">
-                                        <div class="image-list">
-                                          <div class="content-image">
-                                            <img
-                                              loading="lazy"
-                                              decoding="async"
-                                              width="338"
-                                              height="85"
-                                              src="wp-content/uploads/sites/27/2022/06/partner-3-1.png"
-                                              class="main-image"
-                                              alt="Title"
-                                              url="wp-content/uploads/sites/27/2022/06/partner-3-1.png"
-                                              source="library"
-                                              srcset="https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/partner-3-1.png 338w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/partner-3-1-300x75.png 300w"
-                                              sizes="(max-width: 338px) 100vw, 338px"
-                                            />
-                                          </div>
-                                        </div>
-                                      </div>
-                                      <div class="client-slider item ">
-                                        <div class="image-list">
-                                          <div class="content-image">
-                                            <img
-                                              loading="lazy"
-                                              decoding="async"
-                                              width="334"
-                                              height="81"
-                                              src="wp-content/uploads/sites/27/2022/06/partner-4-1.png"
-                                              class="main-image"
-                                              alt="Title"
-                                              url="wp-content/uploads/sites/27/2022/06/partner-4-1.png"
-                                              source="library"
-                                              srcset="https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/partner-4-1.png 334w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/partner-4-1-300x73.png 300w"
-                                              sizes="(max-width: 334px) 100vw, 334px"
                                             />
                                           </div>
                                         </div>
