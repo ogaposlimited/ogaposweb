@@ -124,7 +124,6 @@ const Faq = () => {
                           <div class="card-wrapper expand">
                             <div class="card-header background-gradient">
                               <a
-                                href="#expand-8fab880"
                                 class="card-header-button"
                                 aria-expanded="false"
                                 data-target="#expand-8fab880"
@@ -153,7 +152,7 @@ const Faq = () => {
                             <div
                               class="card-expand"
                               id="expand-8fab880"
-                              style="display: block;"
+                              style={{ display: "block" }}
                             >
                               <div class="card-body">
                                 There may be minimum and maximum limits for
@@ -165,7 +164,6 @@ const Faq = () => {
                           <div class="card-wrapper">
                             <div class="card-header background-gradient">
                               <a
-                                href="#expand-c8565b5"
                                 class="card-header-button"
                                 aria-expanded="false"
                                 data-target="#expand-c8565b5"
@@ -194,7 +192,7 @@ const Faq = () => {
                             <div
                               class="card-expand"
                               id="expand-c8565b5"
-                              style="display: none;"
+                              style={{ display: "none" }}
                             >
                               <div class="card-body">
                                 If you encounter any issues with your
@@ -207,7 +205,6 @@ const Faq = () => {
                           <div class="card-wrapper">
                             <div class="card-header background-gradient">
                               <a
-                                href="#expand-34c3ab0"
                                 class="card-header-button"
                                 aria-expanded="false"
                                 data-target="#expand-34c3ab0"
@@ -235,7 +232,7 @@ const Faq = () => {
                             <div
                               class="card-expand"
                               id="expand-34c3ab0"
-                              style="display: none;"
+                              style={{ display: "none" }}
                             >
                               <div class="card-body">
                                 We accept various forms of payment including
@@ -276,7 +273,7 @@ const Faq = () => {
                             <div
                               class="card-expand"
                               id="expand-1baf2f0"
-                              style="display: none;"
+                              style={{ display: "none" }}
                             >
                               <div class="card-body">
                                 To join our Ajo (Thrift) program, you can
