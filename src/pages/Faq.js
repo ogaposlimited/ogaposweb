@@ -386,9 +386,13 @@ const Faq = () => {
                       data-widget_type="text-editor.default"
                     >
                       <div class="elementor-widget-container">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusm tempor incididunt ut labore et dolore magna
-                        aliqua.{" "}
+                        At OGAPOS, we are committed to providing exceptional
+                        support to our customers. Whether you need assistance
+                        with your transactions, have questions about our
+                        services, or need help with your account, our dedicated
+                        support team is here to help. Reach out to us via our
+                        contact page or call our support hotline for prompt and
+                        reliable assistance.
                       </div>
                     </div>
                     <div
@@ -414,7 +418,7 @@ const Faq = () => {
                             </h3>
 
                             <p class="elementor-icon-box-description">
-                              support@domain.com{" "}
+                              info@ogapos.com
                             </p>
                           </div>
                         </div>
@@ -443,7 +447,7 @@ const Faq = () => {
                             </h3>
 
                             <p class="elementor-icon-box-description">
-                              (+62) 81 158 2158{" "}
+                              +234 707 877 1831, +234 803 876 3637
                             </p>
                           </div>
                         </div>
