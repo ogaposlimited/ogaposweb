@@ -402,121 +402,7 @@ const About = () => {
                           data-id="78e96ec7"
                           data-element_type="column"
                           data-settings='{"background_background":"classic"}'
-                        >
-                          <div class="elementor-widget-wrap elementor-element-populated">
-                            <div
-                              class="elementor-element elementor-element-9ffe262 elementor-widget elementor-widget-heading"
-                              data-id="9ffe262"
-                              data-element_type="widget"
-                              data-widget_type="heading.default"
-                            >
-                              <div class="elementor-widget-container">
-                                <h3 class="elementor-heading-title elementor-size-default">
-                                  Our Expertise
-                                </h3>{" "}
-                              </div>
-                            </div>
-                            <div
-                              class="elementor-element elementor-element-681df41e elementor-widget elementor-widget-jkit_progress_bar"
-                              data-id="681df41e"
-                              data-element_type="widget"
-                              data-widget_type="jkit_progress_bar.default"
-                            >
-                              <div class="elementor-widget-container">
-                                <div class="jeg-elementor-kit jkit-progress-bar jeg_module_623_3_66a66a172125c">
-                                  <div class="progress-group ">
-                                    <div class="progress-skill-bar">
-                                      <div class="skill-bar-content">
-                                        <span class="skill-title">
-                                          Online Payments
-                                        </span>
-                                      </div>
-                                      <div class="skill-bar">
-                                        <div class="skill-track">
-                                          <div class="number-percentage-wrapper">
-                                            <span
-                                              class="number-percentage"
-                                              data-value="91"
-                                              data-animation-duration="3500"
-                                            >
-                                              91%
-                                            </span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>{" "}
-                              </div>
-                            </div>
-                            <div
-                              class="elementor-element elementor-element-26de0e44 elementor-widget elementor-widget-jkit_progress_bar"
-                              data-id="26de0e44"
-                              data-element_type="widget"
-                              data-widget_type="jkit_progress_bar.default"
-                            >
-                              <div class="elementor-widget-container">
-                                <div class="jeg-elementor-kit jkit-progress-bar jeg_module_623_4_66a66a1721c03">
-                                  <div class="progress-group ">
-                                    <div class="progress-skill-bar">
-                                      <div class="skill-bar-content">
-                                        <span class="skill-title">
-                                          Integration Other
-                                        </span>
-                                      </div>
-                                      <div class="skill-bar">
-                                        <div class="skill-track">
-                                          <div class="number-percentage-wrapper">
-                                            <span
-                                              class="number-percentage"
-                                              data-value="92"
-                                              data-animation-duration="3500"
-                                            >
-                                              92%
-                                            </span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>{" "}
-                              </div>
-                            </div>
-                            <div
-                              class="elementor-element elementor-element-44d0f347 elementor-widget elementor-widget-jkit_progress_bar"
-                              data-id="44d0f347"
-                              data-element_type="widget"
-                              data-widget_type="jkit_progress_bar.default"
-                            >
-                              <div class="elementor-widget-container">
-                                <div class="jeg-elementor-kit jkit-progress-bar jeg_module_623_5_66a66a1722511">
-                                  <div class="progress-group ">
-                                    <div class="progress-skill-bar">
-                                      <div class="skill-bar-content">
-                                        <span class="skill-title">
-                                          Tested Reliability
-                                        </span>
-                                      </div>
-                                      <div class="skill-bar">
-                                        <div class="skill-track">
-                                          <div class="number-percentage-wrapper">
-                                            <span
-                                              class="number-percentage"
-                                              data-value="88"
-                                              data-animation-duration="3500"
-                                            >
-                                              88%
-                                            </span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>{" "}
-                              </div>
-                            </div>
-                          </div>
-                        </div>
+                        ></div>
                       </div>
                     </section>
                   </div>
@@ -559,8 +445,7 @@ const About = () => {
                     >
                       <div class="elementor-widget-container">
                         <h2 class="elementor-heading-title elementor-size-default">
-                          We Are The Best Payment Gateway Agency Helping Brands
-                          Worldwide
+                          We are the best payment service in Nigeria
                         </h2>{" "}
                       </div>
                     </div>
@@ -572,10 +457,12 @@ const About = () => {
                     >
                       <div class="elementor-widget-container">
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua. Ut enim ad minim veniam, quis
-                          nostrud xercitation ullamco.
+                          OGAPOS is your safest, fastest and most reliable way
+                          to get cash, send cash, paybills, buy Airtime and
+                          data, Get cash when you need it and where you need it,
+                          and with our Ajo(Thrift), you become financially free.
+                          Let's grow your business without stress and make your
+                          dream a reality
                         </p>{" "}
                       </div>
                     </div>
@@ -610,26 +497,14 @@ const About = () => {
                                   data-animation-duration="3600"
                                   data-content-type="percentage"
                                 >
-                                  <div class="pie-chart-wrapper">
-                                    <span class="pie-chart-content">0%</span>
-                                    <canvas
-                                      class="main-canvas"
-                                      height="150"
-                                      width="150"
-                                    ></canvas>
-                                    <canvas
-                                      class="background-canvas"
-                                      height="150"
-                                      width="150"
-                                    ></canvas>
-                                  </div>
                                   <h3 class="pie-chart-title">
-                                    Trust &amp; security
+                                    Get cash where you need it
                                   </h3>
                                   <div class="pie-chart-description">
                                     <p>
-                                      Lorem ipsum dolor sit amet, consectet
-                                      adipiscing elit, sed do eiusmod.
+                                      One of our major reason we created OGAPOS
+                                      is to grant easy access to cash to our
+                                      client wherever they need it
                                     </p>
                                   </div>
                                 </div>{" "}
@@ -662,26 +537,14 @@ const About = () => {
                                   data-animation-duration="3600"
                                   data-content-type="percentage"
                                 >
-                                  <div class="pie-chart-wrapper">
-                                    <span class="pie-chart-content">0%</span>
-                                    <canvas
-                                      class="main-canvas"
-                                      height="150"
-                                      width="150"
-                                    ></canvas>
-                                    <canvas
-                                      class="background-canvas"
-                                      height="150"
-                                      width="150"
-                                    ></canvas>
-                                  </div>
                                   <h3 class="pie-chart-title">
-                                    Store Collection
+                                    Get cash when you need it
                                   </h3>
                                   <div class="pie-chart-description">
                                     <p>
-                                      Lorem ipsum dolor sit amet, consectet
-                                      adipiscing elit, sed do eiusmod.
+                                      One of our major reason we created OGAPOS
+                                      is to grant easy access to cash to our
+                                      client whenever they need it
                                     </p>
                                   </div>
                                 </div>{" "}
@@ -701,11 +564,11 @@ const About = () => {
                         <div class="elementor-button-wrapper">
                           <a
                             class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink"
-                            href="#"
+                            href="services"
                           >
                             <span class="elementor-button-content-wrapper">
                               <span class="elementor-button-text">
-                                More Projects
+                                Our Services
                               </span>
                             </span>
                           </a>
@@ -722,11 +585,11 @@ const About = () => {
                         <div class="elementor-button-wrapper">
                           <a
                             class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink"
-                            href="#"
+                            href="contact"
                           >
                             <span class="elementor-button-content-wrapper">
                               <span class="elementor-button-text">
-                                All Partners
+                                Contact Us
                               </span>
                             </span>
                           </a>

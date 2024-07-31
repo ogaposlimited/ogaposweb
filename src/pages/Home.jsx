@@ -522,7 +522,7 @@ const Home = () => {
                                 <span class="prefix"></span>
                                 <span
                                   class="number"
-                                  data-value="1485"
+                                  data-value="1000"
                                   data-animation-duration="3500"
                                 >
                                   0
@@ -689,7 +689,7 @@ const Home = () => {
                 </div>
               </div>
             </section>
-            <section
+            {/*}  <section
               class="elementor-section elementor-top-section elementor-element elementor-element-1db43f97 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
               data-id="1db43f97"
               data-element_type="section"
@@ -717,7 +717,7 @@ const Home = () => {
                                 <span class="prefix"></span>
                                 <span
                                   class="number"
-                                  data-value="25"
+                                  data-value="5"
                                   data-animation-duration="3500"
                                 >
                                   0
@@ -842,7 +842,7 @@ const Home = () => {
                   </div>
                 </div>
               </div>
-            </section>
+            </section>*/}
             <section
               class="elementor-section elementor-top-section elementor-element elementor-element-7f391154 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
               data-id="7f391154"
@@ -2568,22 +2568,18 @@ const Home = () => {
                                                   decoding="async"
                                                   width="1000"
                                                   height="1000"
-                                                  src="wp-content/uploads/sites/27/2022/06/man-with-tablet-in-his-hands-feeling-good-M5SC4SH-1.jpg"
+                                                  // src="wp-content/uploads/sites/27/2022/06/man-with-tablet-in-his-hands-feeling-good-M5SC4SH-1.jpg"
                                                   class="source-library"
-                                                  alt="Marius Huber"
+                                                  alt=""
                                                   url="wp-content/uploads/sites/27/2022/06/man-with-tablet-in-his-hands-feeling-good-M5SC4SH-1.jpg"
                                                   source="library"
-                                                  srcset="https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/man-with-tablet-in-his-hands-feeling-good-M5SC4SH-1.jpg 1000w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/man-with-tablet-in-his-hands-feeling-good-M5SC4SH-1-300x300.jpg 300w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/man-with-tablet-in-his-hands-feeling-good-M5SC4SH-1-150x150.jpg 150w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/man-with-tablet-in-his-hands-feeling-good-M5SC4SH-1-768x768.jpg 768w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/man-with-tablet-in-his-hands-feeling-good-M5SC4SH-1-800x800.jpg 800w"
+                                                  // srcset="https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/man-with-tablet-in-his-hands-feeling-good-M5SC4SH-1.jpg 1000w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/man-with-tablet-in-his-hands-feeling-good-M5SC4SH-1-300x300.jpg 300w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/man-with-tablet-in-his-hands-feeling-good-M5SC4SH-1-150x150.jpg 150w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/man-with-tablet-in-his-hands-feeling-good-M5SC4SH-1-768x768.jpg 768w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/man-with-tablet-in-his-hands-feeling-good-M5SC4SH-1-800x800.jpg 800w"
                                                   sizes="(max-width: 1000px) 100vw, 1000px"
                                                 />
                                               </div>
                                               <span class="profile-info">
-                                                <strong class="profile-name">
-                                                  Marius Huber
-                                                </strong>
-                                                <p class="profile-des">
-                                                  HR Manager
-                                                </p>
+                                                <strong class="profile-name"></strong>
+                                                <p class="profile-des"></p>
                                               </span>
                                             </div>
                                             <div class="icon-content">
@@ -2594,13 +2590,7 @@ const Home = () => {
                                             </div>
                                           </div>
                                           <div class="comment-content">
-                                            <p>
-                                              Lorem ipsum dolor sit amet,
-                                              consectetur adipiscing elit, sed
-                                              do eiusmod tempor incididunt ut
-                                              labore et dolore magna aliqua
-                                              minim veniam quis nostrud exercis.
-                                            </p>
+                                            <p></p>
                                           </div>
                                         </div>
                                       </div>
@@ -2648,22 +2638,18 @@ const Home = () => {
                                                   decoding="async"
                                                   width="1000"
                                                   height="1000"
-                                                  src="wp-content/uploads/sites/27/2022/06/young-woman-working-with-digital-tablet-in-the-off-7FHM3FZ-1.jpg"
+                                                  // src="wp-content/uploads/sites/27/2022/06/young-woman-working-with-digital-tablet-in-the-off-7FHM3FZ-1.jpg"
                                                   class="source-library"
-                                                  alt="Maeve Ritter"
-                                                  url="wp-content/uploads/sites/27/2022/06/young-woman-working-with-digital-tablet-in-the-off-7FHM3FZ-1.jpg"
+                                                  alt=""
+                                                  // url="wp-content/uploads/sites/27/2022/06/young-woman-working-with-digital-tablet-in-the-off-7FHM3FZ-1.jpg"
                                                   source="library"
-                                                  srcset="https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-woman-working-with-digital-tablet-in-the-off-7FHM3FZ-1.jpg 1000w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-woman-working-with-digital-tablet-in-the-off-7FHM3FZ-1-300x300.jpg 300w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-woman-working-with-digital-tablet-in-the-off-7FHM3FZ-1-150x150.jpg 150w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-woman-working-with-digital-tablet-in-the-off-7FHM3FZ-1-768x768.jpg 768w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-woman-working-with-digital-tablet-in-the-off-7FHM3FZ-1-800x800.jpg 800w"
+                                                  // srcset="https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-woman-working-with-digital-tablet-in-the-off-7FHM3FZ-1.jpg 1000w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-woman-working-with-digital-tablet-in-the-off-7FHM3FZ-1-300x300.jpg 300w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-woman-working-with-digital-tablet-in-the-off-7FHM3FZ-1-150x150.jpg 150w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-woman-working-with-digital-tablet-in-the-off-7FHM3FZ-1-768x768.jpg 768w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-woman-working-with-digital-tablet-in-the-off-7FHM3FZ-1-800x800.jpg 800w"
                                                   sizes="(max-width: 1000px) 100vw, 1000px"
                                                 />
                                               </div>
                                               <span class="profile-info">
-                                                <strong class="profile-name">
-                                                  Maeve Ritter
-                                                </strong>
-                                                <p class="profile-des">
-                                                  Banker
-                                                </p>
+                                                <strong class="profile-name"></strong>
+                                                <p class="profile-des"></p>
                                               </span>
                                             </div>
                                             <div class="icon-content">
@@ -2674,13 +2660,7 @@ const Home = () => {
                                             </div>
                                           </div>
                                           <div class="comment-content">
-                                            <p>
-                                              Lorem ipsum dolor sit amet,
-                                              consectetur adipiscing elit, sed
-                                              do eiusmod tempor incididunt ut
-                                              labore et dolore magna aliqua
-                                              minim veniam quis nostrud exercis.
-                                            </p>
+                                            <p></p>
                                           </div>
                                         </div>
                                       </div>
@@ -2728,22 +2708,18 @@ const Home = () => {
                                                   decoding="async"
                                                   width="1000"
                                                   height="1000"
-                                                  src="wp-content/uploads/sites/27/2022/06/young-woman-holding-digital-tablet-in-modern-offic-MDR8BDP-1.jpg"
+                                                  // src="wp-content/uploads/sites/27/2022/06/young-woman-holding-digital-tablet-in-modern-offic-MDR8BDP-1.jpg"
                                                   class="source-library"
-                                                  alt="Monica Doyle"
-                                                  url="wp-content/uploads/sites/27/2022/06/young-woman-holding-digital-tablet-in-modern-offic-MDR8BDP-1.jpg"
+                                                  alt=""
+                                                  // url="wp-content/uploads/sites/27/2022/06/young-woman-holding-digital-tablet-in-modern-offic-MDR8BDP-1.jpg"
                                                   source="library"
-                                                  srcset="https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-woman-holding-digital-tablet-in-modern-offic-MDR8BDP-1.jpg 1000w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-woman-holding-digital-tablet-in-modern-offic-MDR8BDP-1-300x300.jpg 300w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-woman-holding-digital-tablet-in-modern-offic-MDR8BDP-1-150x150.jpg 150w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-woman-holding-digital-tablet-in-modern-offic-MDR8BDP-1-768x768.jpg 768w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-woman-holding-digital-tablet-in-modern-offic-MDR8BDP-1-800x800.jpg 800w"
+                                                  // srcset="https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-woman-holding-digital-tablet-in-modern-offic-MDR8BDP-1.jpg 1000w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-woman-holding-digital-tablet-in-modern-offic-MDR8BDP-1-300x300.jpg 300w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-woman-holding-digital-tablet-in-modern-offic-MDR8BDP-1-150x150.jpg 150w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-woman-holding-digital-tablet-in-modern-offic-MDR8BDP-1-768x768.jpg 768w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-woman-holding-digital-tablet-in-modern-offic-MDR8BDP-1-800x800.jpg 800w"
                                                   sizes="(max-width: 1000px) 100vw, 1000px"
                                                 />
                                               </div>
                                               <span class="profile-info">
-                                                <strong class="profile-name">
-                                                  Monica Doyle
-                                                </strong>
-                                                <p class="profile-des">
-                                                  Entrepreneur
-                                                </p>
+                                                <strong class="profile-name"></strong>
+                                                <p class="profile-des"></p>
                                               </span>
                                             </div>
                                             <div class="icon-content">
@@ -2754,13 +2730,7 @@ const Home = () => {
                                             </div>
                                           </div>
                                           <div class="comment-content">
-                                            <p>
-                                              Lorem ipsum dolor sit amet,
-                                              consectetur adipiscing elit, sed
-                                              do eiusmod tempor incididunt ut
-                                              labore et dolore magna aliqua
-                                              minim veniam quis nostrud exercis.
-                                            </p>
+                                            <p></p>
                                           </div>
                                         </div>
                                       </div>
@@ -2808,22 +2778,18 @@ const Home = () => {
                                                   decoding="async"
                                                   width="1000"
                                                   height="1000"
-                                                  src="wp-content/uploads/sites/27/2022/06/young-creative-man-standing-in-modern-office-and-s-PBU4KMW-1.jpg"
+                                                  // src="wp-content/uploads/sites/27/2022/06/young-creative-man-standing-in-modern-office-and-s-PBU4KMW-1.jpg"
                                                   class="source-library"
-                                                  alt="John Helzinky"
-                                                  url="wp-content/uploads/sites/27/2022/06/young-creative-man-standing-in-modern-office-and-s-PBU4KMW-1.jpg"
+                                                  alt=""
+                                                  // url="wp-content/uploads/sites/27/2022/06/young-creative-man-standing-in-modern-office-and-s-PBU4KMW-1.jpg"
                                                   source="library"
-                                                  srcset="https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-creative-man-standing-in-modern-office-and-s-PBU4KMW-1.jpg 1000w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-creative-man-standing-in-modern-office-and-s-PBU4KMW-1-300x300.jpg 300w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-creative-man-standing-in-modern-office-and-s-PBU4KMW-1-150x150.jpg 150w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-creative-man-standing-in-modern-office-and-s-PBU4KMW-1-768x768.jpg 768w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-creative-man-standing-in-modern-office-and-s-PBU4KMW-1-800x800.jpg 800w"
+                                                  // srcset="https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-creative-man-standing-in-modern-office-and-s-PBU4KMW-1.jpg 1000w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-creative-man-standing-in-modern-office-and-s-PBU4KMW-1-300x300.jpg 300w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-creative-man-standing-in-modern-office-and-s-PBU4KMW-1-150x150.jpg 150w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-creative-man-standing-in-modern-office-and-s-PBU4KMW-1-768x768.jpg 768w, https://kit.baliniz.com/payze/wp-content/uploads/sites/27/2022/06/young-creative-man-standing-in-modern-office-and-s-PBU4KMW-1-800x800.jpg 800w"
                                                   sizes="(max-width: 1000px) 100vw, 1000px"
                                                 />
                                               </div>
                                               <span class="profile-info">
-                                                <strong class="profile-name">
-                                                  John Helzinky
-                                                </strong>
-                                                <p class="profile-des">
-                                                  CEO Scraft
-                                                </p>
+                                                <strong class="profile-name"></strong>
+                                                <p class="profile-des"></p>
                                               </span>
                                             </div>
                                             <div class="icon-content">
@@ -2834,13 +2800,7 @@ const Home = () => {
                                             </div>
                                           </div>
                                           <div class="comment-content">
-                                            <p>
-                                              Lorem ipsum dolor sit amet,
-                                              consectetur adipiscing elit, sed
-                                              do eiusmod tempor incididunt ut
-                                              labore et dolore magna aliqua
-                                              minim veniam quis nostrud exercis.
-                                            </p>
+                                            <p></p>
                                           </div>
                                         </div>
                                       </div>
@@ -2899,11 +2859,9 @@ const Home = () => {
                             >
                               <div class="elementor-widget-container">
                                 <p>
-                                  Lorem ipsum dolor sit amet, consectete
-                                  adipiscing elit, sed dolore eiusmod tempor
-                                  incididunt ut labore et dolore magna aliqua.
-                                  Ullamco laboris nisi eiusmod tempor
-                                  incididunt.
+                                  Here are some of the testimonies of some of
+                                  our client, we give 100% Satisfaction to our
+                                  clients no doubt
                                 </p>{" "}
                               </div>
                             </div>
