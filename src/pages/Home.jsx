@@ -2,7 +2,7 @@ import { Badge } from "@material-ui/core";
 import { Search, ShoppingCartOutlined } from "@material-ui/icons";
 import React from "react";
 import white from "./home.png";
-import young from "./shopping.jpg";
+import young from "./woman.jpg";
 import old from "./shop2.jpg";
 import Navbar from "../components/Navbar";
 import step from "./quicks.png";
