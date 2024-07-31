@@ -1703,12 +1703,10 @@ const Home = () => {
                               <div class="elementor-widget-container">
                                 <div class="jeg-elementor-kit jkit-heading  align-center align-tablet-center align-mobile-center jeg_module_546_19_66a669ed7a5cb">
                                   <div class="heading-section-title  display-inline-block">
-                                    <h3 class="heading-title">
-                                      Onsite Payments
-                                    </h3>
+                                    <h3 class="heading-title">POS</h3>
                                   </div>
                                   <div class="heading-section-description">
-                                    <p>Seamless API for CRM</p>
+                                    <p>Seamless POS transactions</p>
                                   </div>
                                 </div>{" "}
                               </div>
@@ -1744,10 +1742,10 @@ const Home = () => {
                               <div class="elementor-widget-container">
                                 <div class="jeg-elementor-kit jkit-heading  align-center align-tablet-center align-mobile-center jeg_module_546_20_66a669ed7bf9e">
                                   <div class="heading-section-title  display-inline-block">
-                                    <h3 class="heading-title">Loan Finance</h3>
+                                    <h3 class="heading-title">Cash delivery</h3>
                                   </div>
                                   <div class="heading-section-description">
-                                    <p>Industry Best Practice</p>
+                                    <p>Get cash when and where you want it</p>
                                   </div>
                                 </div>{" "}
                               </div>
@@ -1783,10 +1781,13 @@ const Home = () => {
                               <div class="elementor-widget-container">
                                 <div class="jeg-elementor-kit jkit-heading  align-center align-tablet-center align-mobile-center jeg_module_546_21_66a669ed7dae4">
                                   <div class="heading-section-title  display-inline-block">
-                                    <h3 class="heading-title">Invoice Cloud</h3>
+                                    <h3 class="heading-title">Bills Payment</h3>
                                   </div>
                                   <div class="heading-section-description">
-                                    <p>Cryptocurrencies</p>
+                                    <p>
+                                      Waste bills, Electricity bills, Cable TV
+                                      bill, Utility bill
+                                    </p>
                                   </div>
                                 </div>{" "}
                               </div>
@@ -1822,10 +1823,13 @@ const Home = () => {
                               <div class="elementor-widget-container">
                                 <div class="jeg-elementor-kit jkit-heading  align-center align-tablet-center align-mobile-center jeg_module_546_22_66a669ed7f58c">
                                   <div class="heading-section-title  display-inline-block">
-                                    <h3 class="heading-title">Bank Transfer</h3>
+                                    <h3 class="heading-title">Airtime/Data</h3>
                                   </div>
                                   <div class="heading-section-description">
-                                    <p>Portal Payments</p>
+                                    <p>
+                                      All service provider network and data
+                                      subscription
+                                    </p>
                                   </div>
                                 </div>{" "}
                               </div>
@@ -2399,8 +2403,8 @@ const Home = () => {
                             >
                               <div class="elementor-widget-container">
                                 <h2 class="elementor-heading-title elementor-size-default">
-                                  More Than 500 Companies Have Partnered With
-                                  Payze
+                                  We have other companies that have partnered
+                                  with us
                                 </h2>{" "}
                               </div>
                             </div>
