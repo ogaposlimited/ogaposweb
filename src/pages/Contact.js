@@ -349,7 +349,7 @@ const Contact = () => {
                                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.533756387091!2d3.576358074027861!3d6.45384342397089!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103bf76180c1af57%3A0xda2430d35f331824!2sCVilla%20Resort!5e0!3m2!1sen!2sng!4v1722450189122!5m2!1sen!2sng"
                                     width="600"
                                     height="450"
-                                    style="border:0;"
+                                    style={{ border: "0" }}
                                     allowfullscreen=""
                                     loading="lazy"
                                     referrerpolicy="no-referrer-when-downgrade"
