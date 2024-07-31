@@ -14,6 +14,7 @@ import Home from "./pages/Home";
 import Contact from "./pages/Contact";
 import Services from "./pages/Services";
 import Faq from "./pages/Faq";
+import Posagent from "./pages/Posagent";
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
           <Route exact path="/services" element={<Services />} />
           <Route exact path="/contact" element={<Contact />} />
           <Route exact path="/faq" element={<Faq />} />
+          <Route exact path="/pos-agent" element={<Posagent />} />
           {/*}  <Route exact path="/banner" element={<Banner />} />
           <Route exact path="/register" element={<LoginPage />} />
           <Route exact path="/blog" element={<News />} />
