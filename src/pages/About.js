@@ -993,7 +993,7 @@ const About = () => {
                         <div class="elementor-button-wrapper">
                           <a
                             class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink"
-                            href="#"
+                            href="contact"
                           >
                             <span class="elementor-button-content-wrapper">
                               <span class="elementor-button-text">
