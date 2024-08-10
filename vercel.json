@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://ogapos.com/$1",
-      "permanent": true
-    }
-  ]
-}
