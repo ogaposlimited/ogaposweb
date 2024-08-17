@@ -177,7 +177,7 @@ const Navbar = () => {
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-login"
                                       >
                                         <a
-                                          href="https://ogaposdashboard.vercel.app"
+                                          href="https://dashboard.ogapos.com"
                                           style={{ color: "black" }}
                                         >
                                           Login
