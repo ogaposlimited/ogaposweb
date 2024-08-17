@@ -248,7 +248,12 @@ const Navbar = () => {
                                       ></i>{" "}
                                     </span>
                                     <span class="elementor-button-text">
-                                      Login
+                                      <a
+                                        href="https://dashboard.ogapos.com"
+                                        style={{ color: "black" }}
+                                      >
+                                        Login
+                                      </a>
                                     </span>
                                   </span>
                                 </a>
