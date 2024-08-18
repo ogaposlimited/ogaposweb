@@ -13,6 +13,7 @@ import Home from "./pages/Home";
 // import NewsDet from "./pages/NewsDet";
 import Contact from "./pages/Contact";
 import Services from "./pages/Services";
+import Login from "./pages/Login";
 import Faq from "./pages/Faq";
 import Posagent from "./pages/Posagent";
 
@@ -24,6 +25,7 @@ function App() {
           <Route exact path="/" element={<Home />} />
 
           <Route exact path="/about" element={<About />} />
+          <Route exact path="/login" element={<Login />} />
           <Route exact path="/services" element={<Services />} />
           <Route exact path="/contact" element={<Contact />} />
           <Route exact path="/faq" element={<Faq />} />
